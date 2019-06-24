@@ -242,41 +242,64 @@ def main():
 
     db.connect()
 
-    #db.build_db_mame2003plus()
-    #db.build_db_mame2010()
-    #db.build_db_mame2016()
-    #db.build_games_db()
-    #db.build_db_fbaneo()
+    if sys.argv[1] == "init":
+        print ("Initialisation of databases")
+        #db.build_db_mame2003plus()
+        #db.build_db_mame2010()
+        #db.build_db_mame2016()
+        #db.build_games_db()
+        #db.build_db_fbaneo()
 
-    #diffDB()
+        #diffDB()
 
-    config = configparser.RawConfigParser()
-    config.read('gamelist.cfg')
-
-    rom_path = config.get('System', 'rom_path')
-
-    showYear1981 = config.getboolean('Collections', 'show_year_1981')
-    showOnePlayerGames = config.getboolean('Collections', 'show_one_player_games')
-    showCategories = config.getboolean('Collections', 'show_categories')
-
-    if showOnePlayerGames:
-        getOnePlayerGames()
-
-    if showYear1981:
-        getGamesFrom1981()
-
-    if showCategories:
-        getCategories()
-
-    getCategories
-    showRomsInCategory("Driving")
+    else if sys.argv[1] == "list":
+        # get current installed roms
+        buildActiveArcadeGames(config)
+        if sys.argv[1] == "1button":
+            result = getOnePlayerGames()
+            writeGamelist(result, "gamelist_1button.conf", active_games)
 
 
-    #buildActiveArcadeGames(config)
+    # reading config
+    else if sys.argv[1] == "config":
+
+        config = configparser.RawConfigParser()
+        config.read('gamelist.cfg')
+
+        rom_path = config.get('System', 'rom_path')
+
+        showYear1981 = config.getboolean('Collections', 'show_year_1981')
+        showOnePlayerGames = config.getboolean('Collections', 'show_one_player_games')
+        showCategories = config.getboolean('Collections', 'show_categories')
+
+
+        if showOnePlayerGames:
+            getOnePlayerGames()
+
+        if showYear1981:
+            getGamesFrom1981()
+
+        if showCategories:
+            getCategories()
+    else
+        print ("Help page for regamebox db")
+        print ("First init db with python regamebox_db init")
+        print ("")
+        print ("Usage of parameter :")
+        print ("    python regamebox_db list 1button   : list all 1 button games")
+        print ("    python regamebox_db config   : list all games via gamelist.cfg")
+        print ("    ")
+
+        
+    #getCategories
+    #showRomsInCategory("Driving")
+
+
+
     #result = getGamesFrom1981()
     #writeGamelist(result, "gamelist_1981.conf", active_games)
 
-    getRomInformation("1942")
+    #getRomInformation("1942")
     
     # show all rom which are marked as romof and are no clones
     # theses games should be parents.
