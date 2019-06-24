@@ -1,0 +1,1831 @@
+No Table to delete.
+for game puckmana taken parents puckman cat *Maze* and subcat *Collect*
+no nplayers found for puckmana
+no year found for dealer
+for game galaxiaj taken parents galaxian cat *Shooter* and subcat *Gallery*
+no nplayers found for galaxiaj
+for game galmidw taken parents galaxian cat *Shooter* and subcat *Gallery*
+no nplayers found for galmidw
+for game galmidwo taken parents galaxian cat *Shooter* and subcat *Gallery*
+no nplayers found for galmidwo
+no year found for tst_galx
+no year found for pisces
+no year found for piscesb
+for game gteikokb taken parents uniwars cat *Shooter* and subcat *Gallery*
+no nplayers found for gteikokb
+for game gteikob2 taken parents uniwars cat *Shooter* and subcat *Gallery*
+no nplayers found for gteikob2
+no year found for exodus
+for game zigzag taken parents None cat *None* and subcat *None*
+no nplayers found for zigzag
+for game zigzag2 taken parents zigzag cat *None* and subcat *None*
+no nplayers found for zigzag2
+for game mooncrsu taken parents mooncrst cat *Shooter* and subcat *Gallery*
+no nplayers found for mooncrsu
+for game mooncrsa taken parents mooncrst cat *Shooter* and subcat *Gallery*
+no nplayers found for mooncrsa
+for game mooncrsg taken parents mooncrst cat *Shooter* and subcat *Gallery*
+no nplayers found for mooncrsg
+no year found for smooncrs
+for game mshuttlj taken parents mshuttle cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for mshuttlj
+for game checkmaj taken parents checkman cat *Puzzle* and subcat *Maze*
+no nplayers found for checkmaj
+for game kingbalj taken parents kingball cat *Shooter* and subcat *Gallery*
+no nplayers found for kingbalj
+for game scorpnmc taken parents None cat *None* and subcat *None*
+no nplayers found for scorpnmc
+no year found for scorpnmc
+for game scrambls taken parents scramble cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for scrambls
+for game atlants2 taken parents atlantis cat *Shooter* and subcat *Misc. Horizontal*
+no nplayers found for atlants2
+for game mrkougr2 taken parents mrkougar cat *Platform* and subcat *Run Jump*
+no nplayers found for mrkougr2
+no year found for mimonscr
+no year found for mimonkey
+no year found for mimonsco
+for game armorca2 taken parents armorcar cat *Maze* and subcat *Collect*
+no nplayers found for armorca2
+for game losttmbh taken parents losttomb cat *Maze* and subcat *Shooter Small*
+no nplayers found for losttmbh
+no year found for superbon
+for game frogseg1 taken parents frogger cat *Maze* and subcat *Cross*
+no nplayers found for frogseg1
+for game frogseg2 taken parents frogger cat *Maze* and subcat *Cross*
+no nplayers found for frogseg2
+for game froggrmc taken parents frogger cat *Maze* and subcat *Cross*
+no nplayers found for froggrmc
+for game cclimbrj taken parents cclimber cat *Climbing* and subcat *Building*
+no nplayers found for cclimbrj
+for game ckonga taken parents ckong cat *Platform* and subcat *Run Jump*
+no nplayers found for ckonga
+for game ckongjeu taken parents ckong cat *Platform* and subcat *Run Jump*
+no nplayers found for ckongjeu
+no year found for rpatrolb
+no year found for silvland
+for game terracrb taken parents terracre cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for terracrb
+for game terracra taken parents terracre cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for terracra
+for game dangar2 taken parents dangar cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for dangar2
+for game legiono taken parents legion cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for legiono
+for game kodure taken parents None cat *None* and subcat *None*
+no nplayers found for kodure
+for game pastelgl taken parents None cat *None* and subcat *None*
+no nplayers found for pastelgl
+for game naughtya taken parents naughtyb cat *Maze* and subcat *Shooter Large*
+no nplayers found for naughtya
+for game naughtyc taken parents naughtyb cat *Maze* and subcat *Shooter Large*
+no nplayers found for naughtyc
+for game popflama taken parents popflame cat *Maze* and subcat *Shooter Small*
+no nplayers found for popflama
+for game popflamb taken parents popflame cat *Maze* and subcat *Shooter Small*
+no nplayers found for popflamb
+for game navalone taken parents None cat *None* and subcat *None*
+no nplayers found for navalone
+for game warpwarr taken parents warpwarp cat *Shooter* and subcat *Misc.*
+no nplayers found for warpwarr
+for game warpwar2 taken parents warpwarp cat *Shooter* and subcat *Misc.*
+no nplayers found for warpwar2
+for game tactcan2 taken parents tactcian cat *Shooter* and subcat *Gallery*
+no nplayers found for tactcan2
+for game digdugb taken parents digdug cat *Maze* and subcat *Digging*
+no nplayers found for digdugb
+for game digduga1 taken parents digdug cat *Maze* and subcat *Digging*
+no nplayers found for digduga1
+for game superpcm taken parents superpac cat *Maze* and subcat *Collect*
+no nplayers found for superpcm
+for game todruago taken parents todruaga cat *Maze* and subcat *Collect*
+no nplayers found for todruago
+for game gapluso taken parents gaplus cat *Shooter* and subcat *Gallery*
+no nplayers found for gapluso
+for game poleposa taken parents polepos cat *Driving* and subcat *Race (chase view)*
+no nplayers found for poleposa
+for game polepos1 taken parents polepos cat *Driving* and subcat *Race (chase view)*
+no nplayers found for polepos1
+for game poleps2a taken parents polepos2 cat *Driving* and subcat *Race (chase view)*
+no nplayers found for poleps2a
+for game poleps2b taken parents polepos2 cat *Driving* and subcat *Race (chase view)*
+no nplayers found for poleps2b
+for game pacland2 taken parents pacland cat *Platform* and subcat *Run, Jump & Scrolling*
+no nplayers found for pacland2
+for game pacland3 taken parents pacland cat *Platform* and subcat *Run, Jump & Scrolling*
+no nplayers found for pacland3
+for game baraduka taken parents baraduke cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for baraduka
+for game metrocra taken parents metrocrs cat *Platform* and subcat *Run, Jump & Scrolling*
+no nplayers found for metrocra
+for game skykiddo taken parents skykiddx cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for skykiddo
+for game rthundro taken parents rthunder cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for rthundro
+for game youkaidk taken parents shadowld cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for youkaidk
+for game yokaidko taken parents shadowld cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for yokaidko
+for game dspirito taken parents dspirit cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for dspirito
+for game pacmanij taken parents pacmania cat *Maze* and subcat *Collect*
+no nplayers found for pacmanij
+for game galag88b taken parents galaga88 cat *Shooter* and subcat *Gallery*
+no nplayers found for galag88b
+for game galag88j taken parents galaga88 cat *Shooter* and subcat *Gallery*
+no nplayers found for galag88j
+for game beraboho taken parents berabohm cat *Platform* and subcat *Fighter Scrolling*
+no nplayers found for beraboho
+for game tankfrcj taken parents tankfrce cat *Maze* and subcat *Shooter Small*
+no nplayers found for tankfrcj
+for game finalapd taken parents finallap cat *Driving* and subcat *Race (chase view)*
+no nplayers found for finalapd
+for game finalapc taken parents finallap cat *Driving* and subcat *Race (chase view)*
+no nplayers found for finalapc
+for game finlapjc taken parents finallap cat *Driving* and subcat *Race (chase view)*
+no nplayers found for finlapjc
+for game finlapjb taken parents finallap cat *Driving* and subcat *Race (chase view)*
+no nplayers found for finlapjb
+for game marvlanj taken parents marvland cat *Platform* and subcat *Fighter Scrolling*
+no nplayers found for marvlanj
+for game kyukaido taken parents kyukaidk cat *Sports* and subcat *Baseball*
+no nplayers found for kyukaido
+for game finalp2j taken parents finalap2 cat *Driving* and subcat *Race (chase view)*
+no nplayers found for finalp2j
+for game sgunnr2j taken parents sgunner2 cat *Shooter* and subcat *Gun*
+no nplayers found for sgunnr2j
+for game cosmognj taken parents cosmogng cat *Shooter* and subcat *Gallery*
+no nplayers found for cosmognj
+for game finalp3a taken parents finalap3 cat *Driving* and subcat *Race (chase view)*
+no nplayers found for finalp3a
+for game suzuk8hj taken parents suzuka8h cat *Driving* and subcat *Motorbike*
+no nplayers found for suzuk8hj
+for game cgangpzj taken parents cgangpzl cat *Puzzle* and subcat *Drop*
+no nplayers found for cgangpzj
+for game knckhedj taken parents knckhead cat *Fighter* and subcat *Versus*
+no nplayers found for knckhedj
+for game emerldaa taken parents emeralda cat *Puzzle* and subcat *Drop*
+no nplayers found for emerldaa
+for game numanatj taken parents numanath cat *Sports* and subcat *Track & Field*
+no nplayers found for numanatj
+for game nebulryj taken parents nebulray cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for nebulryj
+for game gunbulet taken parents ptblank cat *Shooter* and subcat *Gun*
+no nplayers found for gunbulet
+for game outfxesj taken parents outfxies cat *Platform* and subcat *Fighter*
+no nplayers found for outfxesj
+for game aircombu taken parents aircombj cat *Shooter* and subcat *Flying (chase view)*
+no nplayers found for aircombu
+for game ridgeraj taken parents None cat *None* and subcat *None*
+no nplayers found for ridgeraj
+for game ridger2j taken parents None cat *None* and subcat *None*
+no nplayers found for ridger2j
+for game timecrsa taken parents None cat *None* and subcat *None*
+no nplayers found for timecrsa
+for game redclask taken parents redclash cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for redclask
+no year found for cheekyms
+for game docastl2 taken parents docastle cat *Platform* and subcat *Run Jump*
+no nplayers found for docastl2
+for game docastlo taken parents docastle cat *Platform* and subcat *Run Jump*
+no nplayers found for docastlo
+for game dorunru2 taken parents dorunrun cat *Maze* and subcat *Collect*
+no nplayers found for dorunru2
+for game dorunruc taken parents dorunrun cat *Maze* and subcat *Collect*
+no nplayers found for dorunruc
+for game dkongjp taken parents dkong cat *Platform* and subcat *Run Jump*
+no nplayers found for dkongjp
+for game dkrdemo taken parents dkong cat *Platform* and subcat *Run Jump*
+no nplayers found for dkrdemo
+for game dkngjnrj taken parents dkongjr cat *Platform* and subcat *Run Jump*
+no nplayers found for dkngjnrj
+for game dkngjnrb taken parents dkongjr cat *Platform* and subcat *Run Jump*
+no nplayers found for dkngjnrb
+for game mariojp taken parents mario cat *Platform* and subcat *Run Jump*
+no nplayers found for mariojp
+for game 8ballat2 taken parents 8ballact cat *Sports* and subcat *Pool*
+no nplayers found for 8ballat2
+no year found for drakton
+for game spnchotj taken parents spnchout cat *Sports* and subcat *Boxing*
+no nplayers found for spnchotj
+for game excitbkj taken parents excitebk cat *Driving* and subcat *Motorbike*
+no nplayers found for excitbkj
+for game iceclmbj taken parents iceclimb cat *Platform* and subcat *Run Jump*
+no nplayers found for iceclmbj
+for game machridr taken parents None cat *None* and subcat *None*
+no nplayers found for machridr
+for game machridj taken parents machridr cat *None* and subcat *None*
+no nplayers found for machridj
+for game vspinblj taken parents vspinbal cat *Misc.* and subcat *Pinball*
+no nplayers found for vspinblj
+for game platoon taken parents None cat *None* and subcat *None*
+no nplayers found for platoon
+for game mightybj taken parents None cat *None* and subcat *None*
+no nplayers found for mightybj
+for game vsbbalja taken parents vsbball cat *Sports* and subcat *Baseball*
+no nplayers found for vsbbalja
+for game iceclmrj taken parents None cat *None* and subcat *None*
+no nplayers found for iceclmrj
+for game vsbbaljb taken parents vsbball cat *Sports* and subcat *Baseball*
+no nplayers found for vsbbaljb
+no year found for nss_smw
+no year found for nss_fzer
+no year found for nss_sten
+for game einnings taken parents None cat *None* and subcat *None*
+no nplayers found for einnings
+for game earthinv taken parents invaders cat *Shooter* and subcat *Gallery*
+no nplayers found for earthinv
+no year found for sinvzen
+no year found for superinv
+for game sstrngr2 taken parents None cat *None* and subcat *None*
+no nplayers found for sstrngr2
+no year found for sinvemag
+for game jspectr2 taken parents invaders cat *Shooter* and subcat *Gallery*
+no nplayers found for jspectr2
+no year found for invrvnge
+for game invrvnga taken parents invrvnge cat *Shooter* and subcat *Gallery*
+no nplayers found for invrvnga
+no year found for invrvnga
+for game galxwar2 taken parents galxwars cat *Shooter* and subcat *Gallery*
+no nplayers found for galxwar2
+for game galxwart taken parents galxwars cat *Shooter* and subcat *Gallery*
+no nplayers found for galxwart
+for game ozmawar2 taken parents ozmawars cat *Shooter* and subcat *Gallery*
+no nplayers found for ozmawar2
+for game schasrcv taken parents schaser cat *Maze* and subcat *Collect*
+no nplayers found for schasrcv
+for game helifira taken parents helifire cat *Shooter* and subcat *Gallery*
+no nplayers found for helifira
+for game sfeverbw taken parents spacefev cat *Shooter* and subcat *Gallery*
+no nplayers found for sfeverbw
+no year found for alieninv
+no year found for tst_invd
+for game radarzn1 taken parents radarzon cat *Maze* and subcat *Outline*
+no nplayers found for radarzn1
+for game radarznt taken parents radarzon cat *Maze* and subcat *Outline*
+no nplayers found for radarznt
+for game kicka taken parents kick cat *Ball & Paddle* and subcat *Jump and Touch*
+no nplayers found for kicka
+for game tronfp taken parents tron cat *Multiplay* and subcat *Mini-Games*
+no nplayers found for tronfp
+for game twotigra taken parents twotiger cat *Shooter* and subcat *Field*
+no nplayers found for twotigra
+for game spyhnt2a taken parents spyhunt2 cat *Shooter* and subcat *Driving (chase view)*
+no nplayers found for spyhnt2a
+for game archriv2 taken parents archrivl cat *Sports* and subcat *Basketball*
+no nplayers found for archriv2
+for game minigol2 taken parents minigolf cat *Sports* and subcat *Golf*
+no nplayers found for minigol2
+for game rescrdsa taken parents rescraid cat *Shooter* and subcat *Driving*
+no nplayers found for rescrdsa
+no year found for grudge
+no year found for ipminvad
+for game yard taken parents None cat *None* and subcat *None*
+no nplayers found for yard
+for game vsyard taken parents yard cat *None* and subcat *None*
+no nplayers found for vsyard
+for game vsyard2 taken parents yard cat *None* and subcat *None*
+no nplayers found for vsyard2
+for game kungfud taken parents kungfum cat *Fighter* and subcat *2D*
+no nplayers found for kungfud
+for game ldrun3jp taken parents ldrun3 cat *Platform* and subcat *Run Jump*
+no nplayers found for ldrun3jp
+for game spelnkrj taken parents spelunkr cat *Platform* and subcat *Run, Jump & Scrolling*
+no nplayers found for spelnkrj
+for game vigilntu taken parents vigilant cat *Platform* and subcat *Fighter Scrolling*
+no nplayers found for vigilntu
+for game vigilntj taken parents vigilant cat *Platform* and subcat *Fighter Scrolling*
+no nplayers found for vigilntj
+for game rtypepj taken parents rtype cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for rtypepj
+for game dkgenm72 taken parents hharry cat *Platform* and subcat *Fighter Scrolling*
+no nplayers found for dkgenm72
+for game poundfou taken parents poundfor cat *Sports* and subcat *Boxing*
+no nplayers found for poundfou
+for game sichuana taken parents sichuan2 cat *Puzzle* and subcat *Match * Mature **
+no nplayers found for sichuana
+for game dynablsb taken parents dynablst cat *Maze* and subcat *Defeat Enemies*
+no nplayers found for dynablsb
+for game gunforcu taken parents gunforce cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for gunforcu
+for game gunforcj taken parents gunforce cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for gunforcj
+for game skingam2 taken parents majtitl2 cat *Sports* and subcat *Golf*
+no nplayers found for skingam2
+for game rtypelej taken parents rtypeleo cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for rtypelej
+for game dsccr94j taken parents dsoccr94 cat *None* and subcat *None*
+no nplayers found for dsccr94j
+for game mplanuk taken parents mplanets cat *Shooter* and subcat *Field*
+no nplayers found for mplanuk
+for game qbertjp taken parents qbert cat *Platform* and subcat *Run Jump*
+no nplayers found for qbertjp
+for game elecyoy2 taken parents elecyoyo cat *Maze* and subcat *Collect*
+no nplayers found for elecyoy2
+for game junglkj2 taken parents junglek cat *Platform* and subcat *Run, Jump & Scrolling*
+no nplayers found for junglkj2
+for game junglhbr taken parents junglek cat *Platform* and subcat *Run, Jump & Scrolling*
+no nplayers found for junglhbr
+for game wwester1 taken parents wwestern cat *Shooter* and subcat *Misc. Vertical*
+no nplayers found for wwester1
+for game elevatob taken parents elevator cat *Platform* and subcat *Shooter*
+no nplayers found for elevatob
+for game crbalon2 taken parents crbaloon cat *Maze* and subcat *Escape*
+no nplayers found for crbalon2
+for game retofin1 taken parents retofinv cat *Shooter* and subcat *Gallery*
+no nplayers found for retofin1
+for game retofin2 taken parents retofinv cat *Shooter* and subcat *Gallery*
+no nplayers found for retofin2
+for game tsamura2 taken parents tsamurai cat *Fighter* and subcat *2D*
+no nplayers found for tsamura2
+for game buggycht taken parents buggychl cat *Driving* and subcat *Race (chase view)*
+no nplayers found for buggycht
+for game onna34ra taken parents onna34ro cat *Fighter* and subcat *Versus*
+no nplayers found for onna34ra
+for game halleys taken parents None cat *None* and subcat *None*
+no nplayers found for halleys
+for game halleycj taken parents halleys cat *None* and subcat *None*
+no nplayers found for halleycj
+for game bublbob1 taken parents bublbobl cat *Platform* and subcat *Run Jump*
+no nplayers found for bublbob1
+for game bublbobr taken parents bublbobl cat *Platform* and subcat *Run Jump*
+no nplayers found for bublbobr
+for game bubbobr1 taken parents bublbobl cat *Platform* and subcat *Run Jump*
+no nplayers found for bubbobr1
+for game sboblbob taken parents bublbobl cat *Platform* and subcat *Run Jump*
+no nplayers found for sboblbob
+for game bublboblu taken parents bublbobl cat *Platform* and subcat *Run Jump*
+no nplayers found for bublboblu
+for game rastanu2 taken parents rastan cat *Platform* and subcat *Fighter Scrolling*
+no nplayers found for rastanu2
+for game topspedu taken parents topspeed cat *Driving* and subcat *Race (chase view)*
+no nplayers found for topspedu
+for game othundu taken parents othunder cat *Shooter* and subcat *Gun*
+no nplayers found for othundu
+for game rainbowo taken parents rainbow cat *Computer* and subcat *Business - Terminal*
+no nplayers found for rainbowo
+for game rainbowe taken parents rainbow cat *Computer* and subcat *Business - Terminal*
+no nplayers found for rainbowe
+for game arknoidu taken parents arkanoid cat *Ball & Paddle* and subcat *Breakout*
+no nplayers found for arknoidu
+for game arknoiuo taken parents arkanoid cat *Ball & Paddle* and subcat *Breakout*
+no nplayers found for arknoiuo
+for game arknoidj taken parents arkanoid cat *Ball & Paddle* and subcat *Breakout*
+no nplayers found for arknoidj
+for game arkbl2 taken parents arkanoid cat *Ball & Paddle* and subcat *Breakout*
+no nplayers found for arkbl2
+for game arkbl3 taken parents arkanoid cat *Ball & Paddle* and subcat *Breakout*
+no nplayers found for arkbl3
+for game superqix taken parents None cat *None* and subcat *None*
+no nplayers found for superqix
+for game sqixbl taken parents superqix cat *None* and subcat *None*
+no nplayers found for sqixbl
+for game bonzeadu taken parents bonzeadv cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for bonzeadu
+for game drius2do taken parents darius2 cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for drius2do
+for game twinhwku taken parents twinhawk cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for twinhwku
+for game arknid2u taken parents arknoid2 cat *Ball & Paddle* and subcat *Breakout*
+no nplayers found for arknid2u
+for game arknid2j taken parents arknoid2 cat *Ball & Paddle* and subcat *Breakout*
+no nplayers found for arknid2j
+for game drtopplu taken parents drtoppel cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for drtopplu
+for game drtopplj taken parents drtoppel cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for drtopplj
+for game chukatau taken parents chukatai cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for chukatau
+for game chukataj taken parents chukatai cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for chukataj
+for game tnzsb taken parents tnzs cat *Platform* and subcat *Run, Jump & Scrolling*
+no nplayers found for tnzsb
+for game tnzs2 taken parents tnzs cat *Platform* and subcat *Run, Jump & Scrolling*
+no nplayers found for tnzs2
+for game kurikinu taken parents kurikint cat *Platform* and subcat *Fighter Scrolling*
+no nplayers found for kurikinu
+for game kurikinj taken parents kurikint cat *Platform* and subcat *Fighter Scrolling*
+no nplayers found for kurikinj
+for game kurikina taken parents kurikint cat *Platform* and subcat *Fighter Scrolling*
+no nplayers found for kurikina
+no year found for cubybop
+for game rambo3ae taken parents rambo3 cat *Shooter* and subcat *3rd Person*
+no nplayers found for rambo3ae
+for game rambo3a taken parents rambo3 cat *Shooter* and subcat *3rd Person*
+no nplayers found for rambo3a
+for game contcrcu taken parents contcirc cat *Driving* and subcat *Race (chase view)*
+no nplayers found for contcrcu
+for game aquajckj taken parents aquajack cat *Shooter* and subcat *Driving (chase view)*
+no nplayers found for aquajckj
+for game undrfiru taken parents undrfire cat *Shooter* and subcat *Gun*
+no nplayers found for undrfiru
+for game undrfirj taken parents undrfire cat *Shooter* and subcat *Gun*
+no nplayers found for undrfirj
+for game dondokdu taken parents dondokod cat *Platform* and subcat *Run Jump*
+no nplayers found for dondokdu
+for game dondokdj taken parents dondokod cat *Platform* and subcat *Run Jump*
+no nplayers found for dondokdj
+for game megab taken parents None cat *None* and subcat *None*
+no nplayers found for megab
+for game megabj taken parents megab cat *None* and subcat *None*
+no nplayers found for megabj
+for game thndfoxu taken parents thundfox cat *Platform* and subcat *Fighter Scrolling*
+no nplayers found for thndfoxu
+for game thndfoxj taken parents thundfox cat *Platform* and subcat *Fighter Scrolling*
+no nplayers found for thndfoxj
+for game camltrua taken parents cameltry cat *Puzzle* and subcat *Maze*
+no nplayers found for camltrua
+for game cameltrj taken parents cameltry cat *Puzzle* and subcat *Maze*
+no nplayers found for cameltrj
+for game majest12 taken parents ssi cat *Shooter* and subcat *Gallery*
+no nplayers found for majest12
+for game gunfronj taken parents gunfront cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for gunfronj
+for game mjnquesb taken parents mjnquest cat *Tabletop* and subcat *Mahjong * Mature **
+no nplayers found for mjnquesb
+for game pulirulj taken parents pulirula cat *Fighter* and subcat *2.5D*
+no nplayers found for pulirulj
+for game deadconj taken parents deadconx cat *Shooter* and subcat *Field*
+no nplayers found for deadconj
+for game ringragj taken parents ringrage cat *Sports* and subcat *Wrestling*
+no nplayers found for ringragj
+for game ringragu taken parents ringrage cat *Sports* and subcat *Wrestling*
+no nplayers found for ringragu
+for game arabiamj taken parents arabianm cat *Fighter* and subcat *2.5D*
+no nplayers found for arabiamj
+for game arabiamu taken parents arabianm cat *Fighter* and subcat *2.5D*
+no nplayers found for arabiamu
+for game ridefgtj taken parents ridingf cat *Fighter* and subcat *Vertical*
+no nplayers found for ridefgtj
+for game ridefgtu taken parents ridingf cat *Fighter* and subcat *Vertical*
+no nplayers found for ridefgtu
+for game prmtmfgo taken parents trstar cat *Sports* and subcat *Boxing*
+no nplayers found for prmtmfgo
+for game rayforcj taken parents gunlock cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for rayforcj
+for game dungenmu taken parents dungeonm cat *Maze* and subcat *Fighter*
+no nplayers found for dungenmu
+for game kaiserkj taken parents kaiserkn cat *Fighter* and subcat *Versus*
+no nplayers found for kaiserkj
+for game bubsympe taken parents bublbob2 cat *Platform* and subcat *Run Jump*
+no nplayers found for bubsympe
+for game bubsympu taken parents bublbob2 cat *Platform* and subcat *Run Jump*
+no nplayers found for bubsympu
+for game bubsymph taken parents bublbob2 cat *Platform* and subcat *Run Jump*
+no nplayers found for bubsymph
+for game hthro95u taken parents pwrgoal cat *Sports* and subcat *Soccer*
+no nplayers found for hthro95u
+for game spcnv95u taken parents spcinv95 cat *Shooter* and subcat *Gallery*
+no nplayers found for spcnv95u
+for game pbobbl2j taken parents pbobble2 cat *Puzzle* and subcat *Toss*
+no nplayers found for pbobbl2j
+for game pbobbl2u taken parents pbobble2 cat *Puzzle* and subcat *Toss*
+no nplayers found for pbobbl2u
+for game pbobbl2x taken parents pbobble2 cat *Puzzle* and subcat *Toss*
+no nplayers found for pbobbl2x
+for game gekirido taken parents None cat *None* and subcat *None*
+no nplayers found for gekirido
+for game pbobbl3u taken parents pbobble3 cat *Puzzle* and subcat *Toss*
+no nplayers found for pbobbl3u
+for game pbobbl3j taken parents pbobble3 cat *Puzzle* and subcat *Toss*
+no nplayers found for pbobbl3j
+for game pbobbl4j taken parents pbobble4 cat *Puzzle* and subcat *Toss*
+no nplayers found for pbobbl4j
+for game pbobbl4u taken parents pbobble4 cat *Puzzle* and subcat *Toss*
+no nplayers found for pbobbl4u
+for game landmkrp taken parents landmakr cat *Puzzle* and subcat *Toss*
+no nplayers found for landmkrp
+for game perfrmau taken parents perfrman cat *Maze* and subcat *Shooter Small*
+no nplayers found for perfrmau
+for game tigerh2 taken parents tigerh cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for tigerh2
+for game slapbtjp taken parents slapfigh cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for slapbtjp
+for game slapbtuk taken parents slapfigh cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for slapbtuk
+for game getstar taken parents None cat *None* and subcat *None*
+no nplayers found for getstar
+for game getstarb taken parents getstar cat *None* and subcat *None*
+no nplayers found for getstarb
+for game twincobu taken parents twincobr cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for twincobu
+for game hellfir1 taken parents hellfire cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for hellfir1
+for game demonwl1 taken parents demonwld cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for demonwl1
+for game samesam2 taken parents fireshrk cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for samesam2
+for game vimana1 taken parents vimana cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for vimana1
+for game snowbroa taken parents snowbros cat *Platform* and subcat *Run Jump*
+no nplayers found for snowbroa
+for game snowbrob taken parents snowbros cat *Platform* and subcat *Run Jump*
+no nplayers found for snowbrob
+for game snowbroj taken parents snowbros cat *Platform* and subcat *Run Jump*
+no nplayers found for snowbroj
+no year found for 4in1boot
+for game hyperpcb taken parents hyperpac cat *Maze* and subcat *Collect*
+no nplayers found for hyperpcb
+no year found for moremorp
+for game pipibibi taken parents pipibibs cat *Platform* and subcat *Run Jump * Mature **
+no nplayers found for pipibibi
+for game fixeighb taken parents fixeight cat *Shooter* and subcat *Walking*
+no nplayers found for fixeighb
+for game grindsta taken parents vfive cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for grindsta
+for game batugnsp taken parents batsugun cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for batugnsp
+for game battleg taken parents None cat *None* and subcat *None*
+no nplayers found for battleg
+for game battlega taken parents battleg cat *None* and subcat *None*
+no nplayers found for battlega
+for game battlegb taken parents battleg cat *None* and subcat *None*
+no nplayers found for battlegb
+for game batridra taken parents batrider cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for batridra
+for game batridrk taken parents batrider cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for batridrk
+for game bbakradu taken parents bbakraid cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for bbakradu
+for game donpachj taken parents donpachi cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for donpachj
+for game donpachk taken parents donpachi cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for donpachk
+for game sailormo taken parents sailormn cat *Fighter* and subcat *2.5D*
+no nplayers found for sailormo
+for game ddonpchj taken parents ddonpach cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for ddonpchj
+for game espradeo taken parents esprade cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for espradeo
+for game 99lstwra taken parents sonofphx cat *Shooter* and subcat *Gallery*
+no nplayers found for 99lstwra
+no year found for legend
+for game defendg taken parents defender cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for defendg
+for game defendw taken parents defender cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for defendw
+for game robotryo taken parents robotron cat *Shooter* and subcat *Field*
+no nplayers found for robotryo
+for game sinista1 taken parents sinistar cat *Shooter* and subcat *Field*
+no nplayers found for sinista1
+for game sinista2 taken parents sinistar cat *Shooter* and subcat *Field*
+no nplayers found for sinista2
+for game blastkit taken parents blaster cat *Shooter* and subcat *Flying (chase view)*
+no nplayers found for blastkit
+for game vulgus2 taken parents vulgus cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for vulgus2
+for game commandu taken parents commando cat *Shooter* and subcat *Walking*
+no nplayers found for commandu
+for game commandj taken parents commando cat *Shooter* and subcat *Walking*
+no nplayers found for commandj
+for game makaimuc taken parents gng cat *Platform* and subcat *Fighter Scrolling*
+no nplayers found for makaimuc
+for game makaimug taken parents gng cat *Platform* and subcat *Fighter Scrolling*
+no nplayers found for makaimug
+for game gunsmoku taken parents gunsmoke cat *Shooter* and subcat *Walking*
+no nplayers found for gunsmoku
+for game gunsmoka taken parents gunsmoke cat *Shooter* and subcat *Walking*
+no nplayers found for gunsmoka
+for game gunsmokj taken parents gunsmoke cat *Shooter* and subcat *Walking*
+no nplayers found for gunsmokj
+for game sctionza taken parents sectionz cat *Shooter* and subcat *Flying*
+no nplayers found for sctionza
+for game srumblr2 taken parents srumbler cat *Shooter* and subcat *Driving Vertical*
+no nplayers found for srumblr2
+for game lwingsjp taken parents lwings cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for lwingsjp
+for game sidearmr taken parents sidearms cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for sidearmr
+for game sidearjp taken parents sidearms cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for sidearjp
+for game avenger2 taken parents avengers cat *Fighter* and subcat *Vertical*
+no nplayers found for avenger2
+for game bktigerb taken parents blktiger cat *Platform* and subcat *Fighter Scrolling*
+no nplayers found for bktigerb
+for game blkdrgnb taken parents blktiger cat *Platform* and subcat *Fighter Scrolling*
+no nplayers found for blkdrgnb
+for game sf1 taken parents None cat *None* and subcat *None*
+no nplayers found for sf1
+for game sf1us taken parents sf1 cat *None* and subcat *None*
+no nplayers found for sf1us
+for game sf1jp taken parents sf1 cat *None* and subcat *None*
+no nplayers found for sf1jp
+for game sf1p taken parents sf1 cat *None* and subcat *None*
+no nplayers found for sf1p
+for game lstduela taken parents lastduel cat *Shooter* and subcat *Driving Vertical*
+no nplayers found for lstduela
+for game lstduelb taken parents lastduel cat *Shooter* and subcat *Driving Vertical*
+no nplayers found for lstduelb
+for game stridrua taken parents strider cat *Platform* and subcat *Fighter Scrolling*
+no nplayers found for stridrua
+for game stridrja taken parents strider cat *Platform* and subcat *Fighter Scrolling*
+no nplayers found for stridrja
+for game dw taken parents None cat *None* and subcat *None*
+no nplayers found for dw
+for game dwj taken parents dw cat *None* and subcat *None*
+no nplayers found for dwj
+for game willowje taken parents willow cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for willowje
+for game mercsua taken parents mercs cat *Shooter* and subcat *Walking*
+no nplayers found for mercsua
+for game 3wonderu taken parents 3wonders cat *MultiGame* and subcat *Compilation*
+no nplayers found for 3wonderu
+for game captcomu taken parents captcomm cat *Fighter* and subcat *2.5D*
+no nplayers found for captcomu
+for game captcomj taken parents captcomm cat *Fighter* and subcat *2.5D*
+no nplayers found for captcomj
+for game sf2cej taken parents sf2ce cat *Fighter* and subcat *Versus*
+no nplayers found for sf2cej
+for game sf2t taken parents sf2ce cat *Fighter* and subcat *Versus*
+no nplayers found for sf2t
+for game sf2tj taken parents sf2ce cat *Fighter* and subcat *Versus*
+no nplayers found for sf2tj
+for game punishru taken parents punisher cat *Fighter* and subcat *2.5D*
+no nplayers found for punishru
+for game punishrj taken parents punisher cat *Fighter* and subcat *2.5D*
+no nplayers found for punishrj
+for game slammasu taken parents slammast cat *Sports* and subcat *Wrestling*
+no nplayers found for slammasu
+for game qadj taken parents qad cat *Quiz* and subcat *Questions in English*
+no nplayers found for qadj
+for game qtono2 taken parents None cat *None* and subcat *None*
+no nplayers found for qtono2
+for game ecofghta taken parents ecofghtr cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for ecofghta
+for game megamn2a taken parents megaman2 cat *Fighter* and subcat *Versus Co-op*
+no nplayers found for megamn2a
+for game rckman2j taken parents megaman2 cat *Fighter* and subcat *Versus Co-op*
+no nplayers found for rckman2j
+for game sfz2aj taken parents sfa2 cat *Fighter* and subcat *Versus*
+no nplayers found for sfz2aj
+for game sfz2ah taken parents sfa2 cat *Fighter* and subcat *Versus*
+no nplayers found for sfz2ah
+for game sfz2ab taken parents sfa2 cat *Fighter* and subcat *Versus*
+no nplayers found for sfz2ab
+for game sfz2aa taken parents sfa2 cat *Fighter* and subcat *Versus*
+no nplayers found for sfz2aa
+for game sfa3r1 taken parents sfa3 cat *Fighter* and subcat *Versus*
+no nplayers found for sfa3r1
+for game gwingj taken parents gigawing cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for gwingj
+for game sg2j taken parents None cat *None* and subcat *None*
+no nplayers found for sg2j
+for game stridr2a taken parents strider2 cat *Platform* and subcat *Fighter Scrolling*
+no nplayers found for stridr2a
+for game glprac2j taken parents glpracr2 cat *Sports* and subcat *Horse Racing*
+no nplayers found for glprac2j
+for game glprac2l taken parents glpracr2 cat *Sports* and subcat *Horse Racing*
+no nplayers found for glprac2l
+for game mgcldtea taken parents mgcldate cat *Multiplay* and subcat *Mini-Games*
+no nplayers found for mgcldtea
+for game beastrzb taken parents None cat *None* and subcat *None*
+no nplayers found for beastrzb
+for game tekkena taken parents tekken cat *Fighter* and subcat *Versus*
+no nplayers found for tekkena
+for game souledga taken parents souledge cat *Fighter* and subcat *Versus*
+no nplayers found for souledga
+for game souledgb taken parents souledge cat *Fighter* and subcat *Versus*
+no nplayers found for souledgb
+for game tekkentt taken parents None cat *None* and subcat *None*
+no nplayers found for tekkentt
+for game pkladiel taken parents pkladies cat *Casino* and subcat *Cards * Mature **
+no nplayers found for pkladiel
+for game blocka taken parents block cat *Ball & Paddle* and subcat *Breakout*
+no nplayers found for blocka
+for game wfortuna taken parents wfortune cat *Quiz* and subcat *Questions in English*
+no nplayers found for wfortuna
+for game hstenn10 taken parents hstennis cat *Sports* and subcat *Tennis*
+no nplayers found for hstenn10
+for game sliksh17 taken parents slikshot cat *Electromechanical* and subcat *Misc.*
+no nplayers found for sliksh17
+for game rimrck20 taken parents rimrockn cat *Sports* and subcat *Basketball*
+no nplayers found for rimrck20
+for game rimrck16 taken parents rimrockn cat *Sports* and subcat *Basketball*
+no nplayers found for rimrck16
+for game rimrck12 taken parents rimrockn cat *Sports* and subcat *Basketball*
+no nplayers found for rimrck12
+for game timek131 taken parents timekill cat *Fighter* and subcat *Versus*
+no nplayers found for timek131
+for game hardyd10 taken parents hardyard cat *Sports* and subcat *Football*
+no nplayers found for hardyd10
+for game bloods22 taken parents bloodstm cat *Fighter* and subcat *Versus*
+no nplayers found for bloods22
+for game bloods21 taken parents bloodstm cat *Fighter* and subcat *Versus*
+no nplayers found for bloods21
+for game bloods11 taken parents bloodstm cat *Fighter* and subcat *Versus*
+no nplayers found for bloods11
+for game wcbwl165 taken parents wcbowl cat *Sports* and subcat *Bowling*
+no nplayers found for wcbwl165
+for game wcbwl161 taken parents wcbowl cat *Sports* and subcat *Bowling*
+no nplayers found for wcbwl161
+for game wcbwl12 taken parents wcbowl cat *Sports* and subcat *Bowling*
+no nplayers found for wcbwl12
+for game sftmj taken parents sftm cat *Fighter* and subcat *Versus*
+no nplayers found for sftmj
+for game sshot137 taken parents shufshot cat *Sports* and subcat *Shuffleboard*
+no nplayers found for sshot137
+for game quartrba taken parents quarterb cat *Sports* and subcat *Football*
+no nplayers found for quartrba
+for game depthv1 taken parents depthch cat *Shooter* and subcat *Gallery*
+no nplayers found for depthv1
+for game sspacat2 taken parents sspaceat cat *Shooter* and subcat *Gallery*
+no nplayers found for sspacat2
+for game sspacatc taken parents sspaceat cat *Shooter* and subcat *Gallery*
+no nplayers found for sspacatc
+for game sptrekct taken parents spacetrk cat *Shooter* and subcat *Gallery*
+no nplayers found for sptrekct
+for game carnvckt taken parents carnival cat *Shooter* and subcat *Gallery*
+no nplayers found for carnvckt
+no year found for alphaho
+for game spacfura taken parents spacfury cat *Shooter* and subcat *Field*
+no nplayers found for spacfura
+for game starjacs taken parents starjack cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for starjacs
+for game mrvikngj taken parents mrviking cat *Shooter* and subcat *Walking*
+no nplayers found for mrvikngj
+for game pitfallu taken parents pitfall2 cat *Platform* and subcat *Run, Jump & Scrolling*
+no nplayers found for pitfallu
+for game seganinu taken parents seganinj cat *Shooter* and subcat *Walking*
+no nplayers found for seganinu
+for game nprincso taken parents seganinj cat *Shooter* and subcat *Walking*
+no nplayers found for nprincso
+for game nprincsu taken parents seganinj cat *Shooter* and subcat *Walking*
+no nplayers found for nprincsu
+for game nprincsb taken parents seganinj cat *Shooter* and subcat *Walking*
+no nplayers found for nprincsb
+for game chplft taken parents None cat *None* and subcat *None*
+no nplayers found for chplft
+for game chplftb taken parents chplft cat *None* and subcat *None*
+no nplayers found for chplftb
+for game chplftbl taken parents chplft cat *None* and subcat *None*
+no nplayers found for chplftbl
+for game noboranb taken parents None cat *None* and subcat *None*
+no nplayers found for noboranb
+for game blckgalb taken parents blockgal cat *Ball & Paddle* and subcat *Breakout * Mature **
+no nplayers found for blckgalb
+no year found for fantzn2
+no year found for opaopa
+for game dotriku2 taken parents dotrikun cat *Maze* and subcat *Driving*
+no nplayers found for dotriku2
+for game aliensya taken parents aliensyn cat *None* and subcat *None*
+no nplayers found for aliensya
+for game aliensyb taken parents aliensyn cat *None* and subcat *None*
+no nplayers found for aliensyb
+for game aliensyj taken parents aliensyn cat *None* and subcat *None*
+no nplayers found for aliensyj
+for game astorm2p taken parents astorm cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for astorm2p
+for game auraila taken parents aurail cat *None* and subcat *None*
+no nplayers found for auraila
+for game bayrouta taken parents bayroute cat *None* and subcat *None*
+no nplayers found for bayrouta
+for game bayrtbl1 taken parents bayroute cat *None* and subcat *None*
+no nplayers found for bayrtbl1
+for game bayrtbl2 taken parents bayroute cat *None* and subcat *None*
+no nplayers found for bayrtbl2
+for game goldnaxb taken parents goldnaxe cat *None* and subcat *None*
+no nplayers found for goldnaxb
+for game goldnaxc taken parents goldnaxe cat *None* and subcat *None*
+no nplayers found for goldnaxc
+for game goldnaxj taken parents goldnaxe cat *None* and subcat *None*
+no nplayers found for goldnaxj
+for game jyuohki taken parents altbeast cat *None* and subcat *None*
+no nplayers found for jyuohki
+for game moonwalk taken parents None cat *None* and subcat *None*
+no nplayers found for moonwalk
+for game moonwlka taken parents moonwalk cat *None* and subcat *None*
+no nplayers found for moonwlka
+for game sdioj taken parents sdi cat *None* and subcat *None*
+no nplayers found for sdioj
+for game shinobia taken parents shinobi cat *None* and subcat *None*
+no nplayers found for shinobia
+for game shinobib taken parents shinobi cat *None* and subcat *None*
+no nplayers found for shinobib
+for game tetrisa taken parents tetris cat *Puzzle* and subcat *Drop*
+no nplayers found for tetrisa
+for game wb3a taken parents wb3 cat *None* and subcat *None*
+no nplayers found for wb3a
+no year found for aceattac
+no year found for afighter
+no year found for cltchitr
+no year found for cotton
+for game cottona taken parents cotton cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for cottona
+no year found for cottona
+no year found for ddcrew
+no year found for dunkshot
+no year found for exctleag
+no year found for lghost
+no year found for loffire
+no year found for mvp
+no year found for ryukyu
+no year found for suprleag
+no year found for thndrbld
+for game thndrbdj taken parents thndrbld cat *Shooter* and subcat *Flying*
+no nplayers found for thndrbdj
+no year found for thndrbdj
+for game toutruna taken parents toutrun cat *Driving* and subcat *Race (chase view)*
+no nplayers found for toutruna
+for game alexkida taken parents alexkidd cat *Platform* and subcat *Run, Jump & Scrolling*
+no nplayers found for alexkida
+for game altbeas2 taken parents altbeast cat *None* and subcat *None*
+no nplayers found for altbeas2
+for game fantzono taken parents fantzone cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for fantzono
+for game goldnabl taken parents goldnaxe cat *None* and subcat *None*
+no nplayers found for goldnabl
+for game goldnaxa taken parents goldnaxe cat *None* and subcat *None*
+no nplayers found for goldnaxa
+for game moonwlkb taken parents moonwalk cat *None* and subcat *None*
+no nplayers found for moonwlkb
+for game outruna taken parents outrun cat *Driving* and subcat *Race (chase view)*
+no nplayers found for outruna
+for game quartt2j taken parents quartet cat *Maze* and subcat *Shooter Large*
+no nplayers found for quartt2j
+for game quartetj taken parents quartet cat *Maze* and subcat *Shooter Large*
+no nplayers found for quartetj
+for game shangonb taken parents shangon cat *Driving* and subcat *Motorbike*
+no nplayers found for shangonb
+for game shdancrj taken parents shdancer cat *Platform* and subcat *Fighter Scrolling*
+no nplayers found for shdancrj
+for game shdancrb taken parents shdancer cat *Platform* and subcat *Fighter Scrolling*
+no nplayers found for shdancrb
+for game shinobl taken parents shinobi cat *Platform* and subcat *Fighter Scrolling*
+no nplayers found for shinobl
+for game timscanr taken parents None cat *None* and subcat *None*
+no nplayers found for timscanr
+for game wb3bl taken parents wb3 cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for wb3bl
+no year found for sspirits
+no year found for sgmast
+no year found for qsww
+no year found for gground
+no year found for crkdown
+for game spidey taken parents None cat *None* and subcat *None*
+no nplayers found for spidey
+for game spideyj taken parents spidey cat *None* and subcat *None*
+no nplayers found for spideyj
+for game harddunj taken parents harddunk cat *Sports* and subcat *Basketball*
+no nplayers found for harddunj
+for game sassisu taken parents None cat *None* and subcat *None*
+no nplayers found for sassisu
+for game sleague taken parents None cat *None* and subcat *None*
+no nplayers found for sleague
+for game ssonicbr taken parents None cat *None* and subcat *None*
+no nplayers found for ssonicbr
+for game puyopuyo taken parents None cat *None* and subcat *None*
+no nplayers found for puyopuyo
+for game puyopuya taken parents puyopuyo cat *None* and subcat *None*
+no nplayers found for puyopuya
+for game puyopuyb taken parents puyopuyo cat *None* and subcat *None*
+no nplayers found for puyopuyb
+for game ichidant taken parents None cat *None* and subcat *None*
+no nplayers found for ichidant
+for game ichidnte taken parents ichidant cat *None* and subcat *None*
+no nplayers found for ichidnte
+for game ichidntb taken parents ichidant cat *None* and subcat *None*
+no nplayers found for ichidntb
+for game mp_twc taken parents None cat *None* and subcat *None*
+no nplayers found for mp_twc
+for game ctislnd2 taken parents ctisland cat *Maze* and subcat *Collect*
+no nplayers found for ctislnd2
+for game ctislnd3 taken parents ctisland cat *Maze* and subcat *Collect*
+no nplayers found for ctislnd3
+for game cburnrb2 taken parents cburnrub cat *Driving* and subcat *Race*
+no nplayers found for cburnrb2
+for game cgraplp2 taken parents cgraplop cat *Ball & Paddle* and subcat *Breakout*
+no nplayers found for cgraplp2
+for game cnights2 taken parents cnightst cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for cnights2
+for game cprosocc taken parents None cat *None* and subcat *None*
+no nplayers found for cprosocc
+for game tomahaw5 taken parents tomahawk cat *Shooter* and subcat *Gallery*
+no nplayers found for tomahaw5
+for game liberatb taken parents liberate cat *Shooter* and subcat *Flying*
+no nplayers found for liberatb
+for game bwing taken parents None cat *None* and subcat *None*
+no nplayers found for bwing
+for game batwings taken parents bwing cat *None* and subcat *None*
+no nplayers found for batwings
+for game firetpbl taken parents firetrap cat *Climbing* and subcat *Building*
+no nplayers found for firetpbl
+for game shootouj taken parents shootout cat *Shooter* and subcat *3rd Person*
+no nplayers found for shootouj
+for game shootoub taken parents shootout cat *Shooter* and subcat *3rd Person*
+no nplayers found for shootoub
+for game sidepctj taken parents sidepckt cat *Sports* and subcat *Pool*
+no nplayers found for sidepctj
+for game sidepctb taken parents sidepckt cat *Sports* and subcat *Pool*
+no nplayers found for sidepctb
+for game wexpresb taken parents exprraid cat *Platform* and subcat *Fighter Scrolling*
+no nplayers found for wexpresb
+for game wexpresc taken parents exprraid cat *Platform* and subcat *Fighter Scrolling*
+no nplayers found for wexpresc
+for game actfanc1 taken parents actfancr cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for actfanc1
+for game actfancj taken parents actfancr cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for actfancj
+for game lastmsno taken parents lastmisn cat *Shooter* and subcat *Field*
+no nplayers found for lastmsno
+for game lastmsnj taken parents lastmisn cat *Shooter* and subcat *Field*
+no nplayers found for lastmsnj
+for game srdarwnj taken parents srdarwin cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for srdarwnj
+for game cobracmj taken parents cobracom cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for cobracmj
+for game oscarj taken parents oscar cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for oscarj
+for game oscarj0 taken parents oscar cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for oscarj0
+for game robocpu0 taken parents robocop cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for robocpu0
+for game ffantasa taken parents hippodrm cat *Fighter* and subcat *Versus*
+no nplayers found for ffantasa
+for game bouldshj taken parents bouldash cat *Maze* and subcat *Digging*
+no nplayers found for bouldshj
+for game vaportru taken parents vaportra cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for vaportru
+for game darksea1 taken parents darkseal cat *Maze* and subcat *Fighter*
+no nplayers found for darksea1
+for game darkseaj taken parents darkseal cat *Maze* and subcat *Fighter*
+no nplayers found for darkseaj
+for game gatedom1 taken parents darkseal cat *Maze* and subcat *Fighter*
+no nplayers found for gatedom1
+for game supbtimj taken parents supbtime cat *Platform* and subcat *Run Jump*
+no nplayers found for supbtimj
+for game mutantfa taken parents mutantf cat *Fighter* and subcat *Versus*
+no nplayers found for mutantfa
+for game cninja0 taken parents cninja cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for cninja0
+for game robocp2u taken parents robocop2 cat *Fighter* and subcat *2.5D*
+no nplayers found for robocp2u
+for game robocp2j taken parents robocop2 cat *Fighter* and subcat *2.5D*
+no nplayers found for robocp2j
+for game dassaul4 taken parents thndzone cat *Shooter* and subcat *Walking*
+no nplayers found for dassaul4
+for game captavna taken parents captaven cat *Fighter* and subcat *2.5D*
+no nplayers found for captavna
+for game captavne taken parents captaven cat *Fighter* and subcat *2.5D*
+no nplayers found for captavne
+for game captavnu taken parents captaven cat *Fighter* and subcat *2.5D*
+no nplayers found for captavnu
+for game captavuu taken parents captaven cat *Fighter* and subcat *2.5D*
+no nplayers found for captavuu
+for game captavnj taken parents captaven cat *Fighter* and subcat *2.5D*
+no nplayers found for captavnj
+for game tumblepb taken parents tumblep cat *Platform* and subcat *Run Jump*
+no nplayers found for tumblepb
+for game tumblep2 taken parents tumblep cat *Platform* and subcat *Run Jump*
+no nplayers found for tumblep2
+for game darksel2 taken parents wizdfire cat *Fighter* and subcat *2.5D*
+no nplayers found for darksel2
+for game pktgaldj taken parents pktgaldx cat *Sports* and subcat *Pool * Mature **
+no nplayers found for pktgaldj
+for game sshanghb taken parents sshangha cat *Puzzle* and subcat *Match*
+no nplayers found for sshanghb
+for game starfore taken parents starforc cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for starfore
+for game bombjac2 taken parents bombjack cat *Platform* and subcat *Run Jump*
+no nplayers found for bombjac2
+for game pbactio2 taken parents pbaction cat *Misc.* and subcat *Pinball*
+no nplayers found for pbactio2
+for game silkwrm2 taken parents silkworm cat *Shooter* and subcat *Misc. Horizontal*
+no nplayers found for silkwrm2
+for game wc90 taken parents None cat *None* and subcat *None*
+no nplayers found for wc90
+for game wc90a taken parents wc90 cat *None* and subcat *None*
+no nplayers found for wc90a
+for game wc90t taken parents wc90 cat *None* and subcat *None*
+no nplayers found for wc90t
+for game wc90b taken parents wc90 cat *None* and subcat *None*
+no nplayers found for wc90b
+for game tutankst taken parents tutankhm cat *Maze* and subcat *Shooter Large*
+no nplayers found for tutankst
+for game junofstg taken parents junofrst cat *Shooter* and subcat *Gallery*
+no nplayers found for junofstg
+for game megaznik taken parents megazone cat *Shooter* and subcat *Driving Vertical*
+no nplayers found for megaznik
+for game trackflc taken parents trackfld cat *Sports* and subcat *Track & Field*
+no nplayers found for trackflc
+for game hyprolyb taken parents trackfld cat *Sports* and subcat *Track & Field*
+no nplayers found for hyprolyb
+for game whizquiz taken parents None cat *None* and subcat *None*
+no nplayers found for whizquiz
+for game rocnropk taken parents rocnrope cat *Platform* and subcat *Run Jump*
+no nplayers found for rocnropk
+for game sbasketo taken parents sbasketb cat *Sports* and subcat *Basketball*
+no nplayers found for sbasketo
+for game sbasketu taken parents sbasketb cat *Sports* and subcat *Basketball*
+no nplayers found for sbasketu
+for game finalizb taken parents finalizr cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for finalizb
+for game contrajb taken parents contra cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for contrajb
+for game combasc taken parents None cat *None* and subcat *None*
+no nplayers found for combasc
+for game combasct taken parents combasc cat *None* and subcat *None*
+no nplayers found for combasct
+for game combascj taken parents combasc cat *None* and subcat *None*
+no nplayers found for combascj
+for game combascb taken parents combasc cat *None* and subcat *None*
+no nplayers found for combascb
+for game rockragj taken parents rockrage cat *Maze* and subcat *Fighter*
+no nplayers found for rockragj
+for game labyrunk taken parents tricktrp cat *Shooter* and subcat *Walking*
+no nplayers found for labyrunk
+for game thehustj taken parents thehustl cat *Sports* and subcat *Pool*
+no nplayers found for thehustj
+for game battlntj taken parents battlnts cat *Shooter* and subcat *3rd Person*
+no nplayers found for battlntj
+for game bladstle taken parents bladestl cat *Sports* and subcat *Hockey*
+no nplayers found for bladstle
+for game hcastleo taken parents hcastle cat *Platform* and subcat *Fighter Scrolling*
+no nplayers found for hcastleo
+for game hcastlej taken parents hcastle cat *Platform* and subcat *Fighter Scrolling*
+no nplayers found for hcastlej
+for game hcastljo taken parents hcastle cat *Platform* and subcat *Fighter Scrolling*
+no nplayers found for hcastljo
+for game thnderxj taken parents thunderx cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for thnderxj
+for game mainev2p taken parents mainevt cat *Sports* and subcat *Wrestling*
+no nplayers found for mainev2p
+for game devstor2 taken parents devstors cat *Shooter* and subcat *3rd Person*
+no nplayers found for devstor2
+for game devstor3 taken parents devstors cat *Shooter* and subcat *3rd Person*
+no nplayers found for devstor3
+for game crimfgt2 taken parents crimfght cat *Fighter* and subcat *2.5D*
+no nplayers found for crimfgt2
+for game crimfgtj taken parents crimfght cat *Fighter* and subcat *2.5D*
+no nplayers found for crimfgtj
+for game surpratk taken parents None cat *None* and subcat *None*
+no nplayers found for surpratk
+for game parodisj taken parents parodius cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for parodisj
+for game simpsn2p taken parents simpsons cat *Fighter* and subcat *2.5D*
+no nplayers found for simpsn2p
+for game simps2pa taken parents simpsons cat *Fighter* and subcat *2.5D*
+no nplayers found for simps2pa
+for game simps2pj taken parents simpsons cat *Fighter* and subcat *2.5D*
+no nplayers found for simps2pj
+for game vendetao taken parents vendetta cat *Fighter* and subcat *2.5D*
+no nplayers found for vendetao
+for game vendet2p taken parents vendetta cat *Fighter* and subcat *2.5D*
+no nplayers found for vendet2p
+for game vendetas taken parents vendetta cat *Fighter* and subcat *2.5D*
+no nplayers found for vendetas
+for game vendtaso taken parents vendetta cat *Fighter* and subcat *2.5D*
+no nplayers found for vendtaso
+for game vendettj taken parents vendetta cat *Fighter* and subcat *2.5D*
+no nplayers found for vendettj
+for game nemesuk taken parents nemesis cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for nemesuk
+for game salamanj taken parents salamand cat *Shooter* and subcat *Flying*
+no nplayers found for salamanj
+for game lifefrcj taken parents salamand cat *Shooter* and subcat *Flying*
+no nplayers found for lifefrcj
+for game citybmrj taken parents citybomb cat *Shooter* and subcat *Driving Vertical*
+no nplayers found for citybmrj
+for game grdius2a taken parents vulcan cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for grdius2a
+for game grdius2b taken parents vulcan cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for grdius2b
+for game cuebrckj taken parents cuebrick cat *Puzzle* and subcat *Sliding*
+no nplayers found for cuebrckj
+for game punksht2 taken parents punkshot cat *Sports* and subcat *Basketball*
+no nplayers found for punksht2
+for game punkshtj taken parents punkshot cat *Sports* and subcat *Basketball*
+no nplayers found for punkshtj
+for game glfgretj taken parents glfgreat cat *Sports* and subcat *Golf*
+no nplayers found for glfgretj
+for game tmnt22p taken parents tmnt2 cat *Fighter* and subcat *2.5D*
+no nplayers found for tmnt22p
+for game ssrdrebd taken parents ssriders cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for ssrdrebd
+for game ssrdrebc taken parents ssriders cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for ssrdrebc
+for game ssrdruda taken parents ssriders cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for ssrdruda
+for game ssrdruac taken parents ssriders cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for ssrdruac
+for game ssrdrubc taken parents ssriders cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for ssrdrubc
+for game ssrdrabd taken parents ssriders cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for ssrdrabd
+for game ssrdrjbd taken parents ssriders cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for ssrdrjbd
+for game sunsetbl taken parents ssriders cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for sunsetbl
+for game xmen2p taken parents xmen cat *Fighter* and subcat *2.5D*
+no nplayers found for xmen2p
+for game astrxeac taken parents asterix cat *Fighter* and subcat *2.5D*
+no nplayers found for astrxeac
+for game astrxeaa taken parents asterix cat *Fighter* and subcat *2.5D*
+no nplayers found for astrxeaa
+for game prmrsocj taken parents prmrsocr cat *Sports* and subcat *Soccer*
+no nplayers found for prmrsocj
+for game moo taken parents None cat *None* and subcat *None*
+no nplayers found for moo
+for game mooua taken parents moo cat *None* and subcat *None*
+no nplayers found for mooua
+for game moobl taken parents moo cat *None* and subcat *None*
+no nplayers found for moobl
+for game buckyua taken parents bucky cat *Shooter* and subcat *Walking*
+no nplayers found for buckyua
+for game mystwaru taken parents mystwarr cat *Fighter* and subcat *2D*
+no nplayers found for mystwaru
+for game viostrmu taken parents viostorm cat *Fighter* and subcat *2.5D*
+no nplayers found for viostrmu
+for game viostrmj taken parents viostorm cat *Fighter* and subcat *2.5D*
+no nplayers found for viostrmj
+for game viostrma taken parents viostorm cat *Fighter* and subcat *2.5D*
+no nplayers found for viostrma
+for game metamrpj taken parents metamrph cat *Fighter* and subcat *2.5D*
+no nplayers found for metamrpj
+for game mtlchmpj taken parents mtlchamp cat *Fighter* and subcat *Versus*
+no nplayers found for mtlchmpj
+for game rungunu taken parents rungun cat *Sports* and subcat *Basketball*
+no nplayers found for rungunu
+for game grdius3a taken parents gradius3 cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for grdius3a
+for game grdius3e taken parents gradius3 cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for grdius3e
+for game starfira taken parents starfire cat *Shooter* and subcat *Flying 1st Person*
+no nplayers found for starfira
+for game hitnmis2 taken parents hitnmiss cat *Shooter* and subcat *Gun*
+no nplayers found for hitnmis2
+for game asteroi1 taken parents asteroid cat *Shooter* and subcat *Field*
+no nplayers found for asteroi1
+for game asteroib taken parents asteroid cat *Shooter* and subcat *Field*
+no nplayers found for asteroib
+for game astdelu1 taken parents astdelux cat *Shooter* and subcat *Field*
+no nplayers found for astdelu1
+for game bzone2 taken parents bzone cat *Shooter* and subcat *Driving 1st Person*
+no nplayers found for bzone2
+for game gravitr2 taken parents gravitar cat *Shooter* and subcat *Field*
+no nplayers found for gravitr2
+for game gravp taken parents gravitar cat *Shooter* and subcat *Field*
+no nplayers found for gravp
+for game starwar1 taken parents starwars cat *Shooter* and subcat *Flying 1st Person*
+no nplayers found for starwar1
+for game alphaona taken parents mhavoc cat *Shooter* and subcat *Misc.*
+no nplayers found for alphaona
+for game centipd2 taken parents centiped cat *Shooter* and subcat *Gallery*
+no nplayers found for centipd2
+for game centtime taken parents centiped cat *Shooter* and subcat *Gallery*
+no nplayers found for centtime
+for game centipb2 taken parents centiped cat *Shooter* and subcat *Gallery*
+no nplayers found for centipb2
+for game liberat2 taken parents liberatr cat *Shooter* and subcat *Command*
+no nplayers found for liberat2
+for game ccastle3 taken parents ccastles cat *Maze* and subcat *Collect*
+no nplayers found for ccastle3
+for game ccastle2 taken parents ccastles cat *Maze* and subcat *Collect*
+no nplayers found for ccastle2
+for game ccastlej taken parents ccastles cat *Maze* and subcat *Collect*
+no nplayers found for ccastlej
+for game indytem2 taken parents indytemp cat *Maze* and subcat *Fighter*
+no nplayers found for indytem2
+for game indytem3 taken parents indytemp cat *Maze* and subcat *Fighter*
+no nplayers found for indytem3
+for game indytem4 taken parents indytemp cat *Maze* and subcat *Fighter*
+no nplayers found for indytem4
+for game indytemd taken parents indytemp cat *Maze* and subcat *Fighter*
+no nplayers found for indytemd
+for game roadrun2 taken parents roadrunn cat *Platform* and subcat *Run, Jump & Scrolling*
+no nplayers found for roadrun2
+for game roadrun1 taken parents roadrunn cat *Platform* and subcat *Run, Jump & Scrolling*
+no nplayers found for roadrun1
+for game roadblsg taken parents roadblst cat *Shooter* and subcat *Driving (chase view)*
+no nplayers found for roadblsg
+for game roadbls3 taken parents roadblst cat *Shooter* and subcat *Driving (chase view)*
+no nplayers found for roadbls3
+for game roadblg2 taken parents roadblst cat *Shooter* and subcat *Driving (chase view)*
+no nplayers found for roadblg2
+for game roadbls2 taken parents roadblst cat *Shooter* and subcat *Driving (chase view)*
+no nplayers found for roadbls2
+for game roadblg1 taken parents roadblst cat *Shooter* and subcat *Driving (chase view)*
+no nplayers found for roadblg1
+for game roadbls1 taken parents roadblst cat *Shooter* and subcat *Driving (chase view)*
+no nplayers found for roadbls1
+for game roadblsc taken parents roadblst cat *Shooter* and subcat *Driving (chase view)*
+no nplayers found for roadblsc
+for game roadblcg taken parents roadblst cat *Shooter* and subcat *Driving (chase view)*
+no nplayers found for roadblcg
+for game roadblc1 taken parents roadblst cat *Shooter* and subcat *Driving (chase view)*
+no nplayers found for roadblc1
+for game paperbr2 taken parents paperboy cat *Maze* and subcat *Driving*
+no nplayers found for paperbr2
+for game paperbr1 taken parents paperboy cat *Maze* and subcat *Driving*
+no nplayers found for paperbr1
+for game sspring1 taken parents ssprint cat *Driving* and subcat *Race Track*
+no nplayers found for sspring1
+for game cspring1 taken parents csprint cat *Driving* and subcat *Race Track*
+no nplayers found for cspring1
+for game csprins1 taken parents csprint cat *Driving* and subcat *Race Track*
+no nplayers found for csprins1
+for game harddrvb taken parents harddriv cat *Driving* and subcat *1st Person*
+no nplayers found for harddrvb
+for game harddrvg taken parents harddriv cat *Driving* and subcat *1st Person*
+no nplayers found for harddrvg
+for game harddrvj taken parents harddriv cat *Driving* and subcat *1st Person*
+no nplayers found for harddrvj
+for game harddrb6 taken parents harddriv cat *Driving* and subcat *1st Person*
+no nplayers found for harddrb6
+for game harddrj6 taken parents harddriv cat *Driving* and subcat *1st Person*
+no nplayers found for harddrj6
+for game harddrb5 taken parents harddriv cat *Driving* and subcat *1st Person*
+no nplayers found for harddrb5
+for game harddrg4 taken parents harddriv cat *Driving* and subcat *1st Person*
+no nplayers found for harddrg4
+for game harddrv3 taken parents harddriv cat *Driving* and subcat *1st Person*
+no nplayers found for harddrv3
+for game harddrv2 taken parents harddriv cat *Driving* and subcat *1st Person*
+no nplayers found for harddrv2
+for game harddrv1 taken parents harddriv cat *Driving* and subcat *1st Person*
+no nplayers found for harddrv1
+for game harddrvc taken parents harddriv cat *Driving* and subcat *1st Person*
+no nplayers found for harddrvc
+for game harddrcg taken parents harddriv cat *Driving* and subcat *1st Person*
+no nplayers found for harddrcg
+for game harddrcb taken parents harddriv cat *Driving* and subcat *1st Person*
+no nplayers found for harddrcb
+for game harddrc1 taken parents harddriv cat *Driving* and subcat *1st Person*
+no nplayers found for harddrc1
+for game stunrn3e taken parents stunrun cat *Shooter* and subcat *Driving (chase view)*
+no nplayers found for stunrn3e
+for game stunrn2e taken parents stunrun cat *Shooter* and subcat *Driving (chase view)*
+no nplayers found for stunrn2e
+for game racedrvb taken parents racedriv cat *Driving* and subcat *1st Person*
+no nplayers found for racedrvb
+for game racedrvg taken parents racedriv cat *Driving* and subcat *1st Person*
+no nplayers found for racedrvg
+for game racedrv4 taken parents racedriv cat *Driving* and subcat *1st Person*
+no nplayers found for racedrv4
+for game racedrb4 taken parents racedriv cat *Driving* and subcat *1st Person*
+no nplayers found for racedrb4
+for game racedrg4 taken parents racedriv cat *Driving* and subcat *1st Person*
+no nplayers found for racedrg4
+for game racedrv3 taken parents racedriv cat *Driving* and subcat *1st Person*
+no nplayers found for racedrv3
+for game racedrv2 taken parents racedriv cat *Driving* and subcat *1st Person*
+no nplayers found for racedrv2
+for game racedrv1 taken parents racedriv cat *Driving* and subcat *1st Person*
+no nplayers found for racedrv1
+for game racedrb1 taken parents racedriv cat *Driving* and subcat *1st Person*
+no nplayers found for racedrb1
+for game racedrg1 taken parents racedriv cat *Driving* and subcat *1st Person*
+no nplayers found for racedrg1
+for game racedrvc taken parents racedriv cat *Driving* and subcat *1st Person*
+no nplayers found for racedrvc
+for game racedrcb taken parents racedriv cat *Driving* and subcat *1st Person*
+no nplayers found for racedrcb
+for game racedrcg taken parents racedriv cat *Driving* and subcat *1st Person*
+no nplayers found for racedrcg
+for game racedrc4 taken parents racedriv cat *Driving* and subcat *1st Person*
+no nplayers found for racedrc4
+for game racedcb4 taken parents racedriv cat *Driving* and subcat *1st Person*
+no nplayers found for racedcb4
+for game racedcg4 taken parents racedriv cat *Driving* and subcat *1st Person*
+no nplayers found for racedcg4
+for game racedrc2 taken parents racedriv cat *Driving* and subcat *1st Person*
+no nplayers found for racedrc2
+for game racedrc1 taken parents racedriv cat *Driving* and subcat *1st Person*
+no nplayers found for racedrc1
+for game steeltag taken parents steeltal cat *Shooter* and subcat *Flying (chase view)*
+no nplayers found for steeltag
+for game steelta1 taken parents steeltal cat *Shooter* and subcat *Flying (chase view)*
+no nplayers found for steelta1
+for game steeltap taken parents steeltal cat *Shooter* and subcat *Flying (chase view)*
+no nplayers found for steeltap
+for game hdrivaip taken parents hdrivair cat *Driving* and subcat *1st Person*
+no nplayers found for hdrivaip
+for game gaunts taken parents gauntlet cat *Maze* and subcat *Shooter Large*
+no nplayers found for gaunts
+for game gauntj taken parents gauntlet cat *Maze* and subcat *Shooter Large*
+no nplayers found for gauntj
+for game gauntg taken parents gauntlet cat *Maze* and subcat *Shooter Large*
+no nplayers found for gauntg
+for game gauntj12 taken parents gauntlet cat *Maze* and subcat *Shooter Large*
+no nplayers found for gauntj12
+for game gauntr9 taken parents gauntlet cat *Maze* and subcat *Shooter Large*
+no nplayers found for gauntr9
+for game gauntgr8 taken parents gauntlet cat *Maze* and subcat *Shooter Large*
+no nplayers found for gauntgr8
+for game gauntr7 taken parents gauntlet cat *Maze* and subcat *Shooter Large*
+no nplayers found for gauntr7
+for game gauntgr6 taken parents gauntlet cat *Maze* and subcat *Shooter Large*
+no nplayers found for gauntgr6
+for game gauntr5 taken parents gauntlet cat *Maze* and subcat *Shooter Large*
+no nplayers found for gauntr5
+for game gauntr4 taken parents gauntlet cat *Maze* and subcat *Shooter Large*
+no nplayers found for gauntr4
+for game gauntgr3 taken parents gauntlet cat *Maze* and subcat *Shooter Large*
+no nplayers found for gauntgr3
+for game gauntr2 taken parents gauntlet cat *Maze* and subcat *Shooter Large*
+no nplayers found for gauntr2
+for game gauntr1 taken parents gauntlet cat *Maze* and subcat *Shooter Large*
+no nplayers found for gauntr1
+for game gaunt2p taken parents gauntlet cat *Maze* and subcat *Shooter Large*
+no nplayers found for gaunt2p
+for game gaunt2pj taken parents gauntlet cat *Maze* and subcat *Shooter Large*
+no nplayers found for gaunt2pj
+for game gaunt2pg taken parents gauntlet cat *Maze* and subcat *Shooter Large*
+no nplayers found for gaunt2pg
+for game gaun2pr3 taken parents gauntlet cat *Maze* and subcat *Shooter Large*
+no nplayers found for gaun2pr3
+for game gaun2pj2 taken parents gauntlet cat *Maze* and subcat *Shooter Large*
+no nplayers found for gaun2pj2
+for game gaun2pg1 taken parents gauntlet cat *Maze* and subcat *Shooter Large*
+no nplayers found for gaun2pg1
+for game gaun22p1 taken parents gaunt2 cat *Maze* and subcat *Shooter Large*
+no nplayers found for gaun22p1
+for game gaun22pg taken parents gaunt2 cat *Maze* and subcat *Shooter Large*
+no nplayers found for gaun22pg
+for game vindc2r2 taken parents vindctr2 cat *Shooter* and subcat *Driving Vertical*
+no nplayers found for vindc2r2
+for game vindc2r1 taken parents vindctr2 cat *Shooter* and subcat *Driving Vertical*
+no nplayers found for vindc2r1
+for game blstroi3 taken parents blstroid cat *Shooter* and subcat *Field*
+no nplayers found for blstroi3
+for game blstroi2 taken parents blstroid cat *Shooter* and subcat *Field*
+no nplayers found for blstroi2
+for game blstroig taken parents blstroid cat *Shooter* and subcat *Field*
+no nplayers found for blstroig
+for game blsthead taken parents blstroid cat *Shooter* and subcat *Field*
+no nplayers found for blsthead
+for game vindicte taken parents vindictr cat *Shooter* and subcat *Driving Vertical*
+no nplayers found for vindicte
+for game vindictg taken parents vindictr cat *Shooter* and subcat *Driving Vertical*
+no nplayers found for vindictg
+for game vindice4 taken parents vindictr cat *Shooter* and subcat *Driving Vertical*
+no nplayers found for vindice4
+for game vindict4 taken parents vindictr cat *Shooter* and subcat *Driving Vertical*
+no nplayers found for vindict4
+for game vindice3 taken parents vindictr cat *Shooter* and subcat *Driving Vertical*
+no nplayers found for vindice3
+for game vindict2 taken parents vindictr cat *Shooter* and subcat *Driving Vertical*
+no nplayers found for vindict2
+for game vindict1 taken parents vindictr cat *Shooter* and subcat *Driving Vertical*
+no nplayers found for vindict1
+for game cyberba2 taken parents cyberbal cat *Sports* and subcat *Football*
+no nplayers found for cyberba2
+for game cyberbap taken parents cyberbal cat *Sports* and subcat *Football*
+no nplayers found for cyberbap
+for game atetcktl taken parents atetris cat *None* and subcat *None*
+no nplayers found for atetcktl
+for game atetckt2 taken parents atetris cat *None* and subcat *None*
+no nplayers found for atetckt2
+for game skullxb4 taken parents skullxbo cat *Fighter* and subcat *2.5D*
+no nplayers found for skullxb4
+for game skullxb3 taken parents skullxbo cat *Fighter* and subcat *2.5D*
+no nplayers found for skullxb3
+for game skullxb2 taken parents skullxbo cat *Fighter* and subcat *2.5D*
+no nplayers found for skullxb2
+for game skullxb1 taken parents skullxbo cat *Fighter* and subcat *2.5D*
+no nplayers found for skullxb1
+for game cyberbt taken parents cyberbal cat *Sports* and subcat *Football*
+no nplayers found for cyberbt
+for game cyberbt1 taken parents cyberbal cat *Sports* and subcat *Football*
+no nplayers found for cyberbt1
+for game klax2 taken parents klax cat *Puzzle* and subcat *Drop*
+no nplayers found for klax2
+for game klax3 taken parents klax cat *Puzzle* and subcat *Drop*
+no nplayers found for klax3
+for game klaxj taken parents klax cat *Puzzle* and subcat *Drop*
+no nplayers found for klaxj
+for game klaxd taken parents klax cat *Puzzle* and subcat *Drop*
+no nplayers found for klaxd
+for game cyberb2p taken parents cyberbal cat *Sports* and subcat *Football*
+no nplayers found for cyberb2p
+for game cyberb23 taken parents cyberbal cat *Sports* and subcat *Football*
+no nplayers found for cyberb23
+for game cyberb22 taken parents cyberbal cat *Sports* and subcat *Football*
+no nplayers found for cyberb22
+for game cyberb21 taken parents cyberbal cat *Sports* and subcat *Football*
+no nplayers found for cyberb21
+for game pitfigh3 taken parents pitfight cat *Fighter* and subcat *Versus*
+no nplayers found for pitfigh3
+for game pitfighj taken parents pitfight cat *Fighter* and subcat *Versus*
+no nplayers found for pitfighj
+for game pitfighb taken parents pitfight cat *Fighter* and subcat *Versus*
+no nplayers found for pitfighb
+for game ramprt2p taken parents rampart cat *Shooter* and subcat *Command*
+no nplayers found for ramprt2p
+for game offtwalc taken parents offtwall cat *Ball & Paddle* and subcat *Breakout*
+no nplayers found for offtwalc
+for game spclorda taken parents spclords cat *Shooter* and subcat *Flying 1st Person*
+no nplayers found for spclorda
+for game rrrevenp taken parents rrreveng cat *Driving* and subcat *Race (chase view)*
+no nplayers found for rrrevenp
+for game tmekprot taken parents tmek cat *Shooter* and subcat *1st Person*
+no nplayers found for tmekprot
+for game primraga taken parents primrage cat *Fighter* and subcat *Versus*
+no nplayers found for primraga
+for game vangrdce taken parents vanguard cat *Shooter* and subcat *Flying*
+no nplayers found for vangrdce
+for game fantasy taken parents None cat *None* and subcat *None*
+no nplayers found for fantasy
+for game fitegol2 taken parents fitegolf cat *Sports* and subcat *Golf*
+no nplayers found for fitegol2
+for game dogosokj taken parents victroad cat *Shooter* and subcat *Walking*
+no nplayers found for dogosokj
+for game bermudao taken parents bermudat cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for bermudao
+for game bermudaa taken parents bermudat cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for bermudaa
+for game ftsoccer taken parents None cat *None* and subcat *None*
+no nplayers found for ftsoccer
+for game ikari3nr taken parents ikari3 cat *Shooter* and subcat *Walking*
+no nplayers found for ikari3nr
+for game sercharu taken parents searchar cat *Shooter* and subcat *Walking*
+no nplayers found for sercharu
+for game streets1 taken parents streetsm cat *Fighter* and subcat *Versus Co-op*
+no nplayers found for streets1
+for game streetsw taken parents streetsm cat *Fighter* and subcat *Versus Co-op*
+no nplayers found for streetsw
+for game streetsj taken parents streetsm cat *Fighter* and subcat *Versus Co-op*
+no nplayers found for streetsj
+for game prehislu taken parents prehisle cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for prehislu
+no year found for shougi
+no year found for shougi2
+for game champbbj taken parents champbas cat *Sports* and subcat *Baseball*
+no nplayers found for champbbj
+for game champbja taken parents champbas cat *Sports* and subcat *Baseball*
+no nplayers found for champbja
+for game exctscca taken parents exctsccr cat *Sports* and subcat *Soccer*
+no nplayers found for exctscca
+for game exctsccb taken parents exctsccr cat *Sports* and subcat *Soccer*
+no nplayers found for exctsccb
+for game timesol1 taken parents timesold cat *Shooter* and subcat *Walking*
+no nplayers found for timesol1
+for game goldmedb taken parents goldmedl cat *Sports* and subcat *Track & Field*
+no nplayers found for goldmedb
+for game skyadvnu taken parents skyadvnt cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for skyadvnu
+for game skyadvnj taken parents skyadvnt cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for skyadvnj
+for game gangwarb taken parents gangwars cat *Fighter* and subcat *2.5D*
+no nplayers found for gangwarb
+for game tnexspce taken parents None cat *None* and subcat *None*
+no nplayers found for tnexspce
+no year found for dommy
+for game myststno taken parents mystston cat *Maze* and subcat *Shooter Large*
+no nplayers found for myststno
+no year found for bogeyman
+for game kuniokub taken parents renegade cat *Fighter* and subcat *2.5D*
+no nplayers found for kuniokub
+for game battlan2 taken parents battlane cat *Shooter* and subcat *Driving Vertical*
+no nplayers found for battlan2
+for game battlan3 taken parents battlane cat *Shooter* and subcat *Driving Vertical*
+no nplayers found for battlan3
+for game saiyugb1 taken parents chinagat cat *Platform* and subcat *Fighter*
+no nplayers found for saiyugb1
+for game saiyugb2 taken parents chinagat cat *Platform* and subcat *Fighter*
+no nplayers found for saiyugb2
+for game ddragn2u taken parents ddragon2 cat *Fighter* and subcat *2.5D*
+no nplayers found for ddragn2u
+no year found for tstrike
+for game blckout2 taken parents blockout cat *Puzzle* and subcat *Drop*
+no nplayers found for blckout2
+for game blckoutj taken parents blockout cat *Puzzle* and subcat *Drop*
+no nplayers found for blckoutj
+for game ddrago3b taken parents ddragon3 cat *Fighter* and subcat *2.5D*
+no nplayers found for ddrago3b
+for game wwfwfsta taken parents wwfwfest cat *Sports* and subcat *Wrestling*
+no nplayers found for wwfwfsta
+for game wwfwfstj taken parents wwfwfest cat *Sports* and subcat *Wrestling*
+no nplayers found for wwfwfstj
+for game jackrab2 taken parents jackrabt cat *Platform* and subcat *Run Jump*
+no nplayers found for jackrab2
+for game jackrabs taken parents jackrabt cat *Platform* and subcat *Run Jump*
+no nplayers found for jackrabs
+for game nov2001u taken parents nova2001 cat *Shooter* and subcat *Field*
+no nplayers found for nov2001u
+for game raidrs5t taken parents raiders5 cat *Maze* and subcat *Shooter Large*
+no nplayers found for raidrs5t
+no year found for pkunwar
+no year found for pkunwarj
+for game ninjak2a taken parents ninjakd2 cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for ninjak2a
+for game ninjak2b taken parents ninjakd2 cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for ninjak2b
+no year found for arkarea
+for game tharierj taken parents tharrier cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for tharierj
+for game vandyjal taken parents vandyke cat *Fighter* and subcat *Vertical*
+no nplayers found for vandyjal
+for game blkhearj taken parents blkheart cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for blkhearj
+for game strahla taken parents strahl cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for strahla
+for game sabotnba taken parents sabotenb cat *Platform* and subcat *Run Jump*
+no nplayers found for sabotnba
+for game trogp taken parents trog cat *Maze* and subcat *Collect*
+no nplayers found for trogp
+for game shimpacp taken parents shimpact cat *Sports* and subcat *Football*
+no nplayers found for shimpacp
+for game mk2r32 taken parents mk2 cat *Fighter* and subcat *Versus*
+no nplayers found for mk2r32
+for game nbajamt1 taken parents nbajam cat *Sports* and subcat *Basketball*
+no nplayers found for nbajamt1
+for game nbajamt2 taken parents nbajam cat *Sports* and subcat *Basketball*
+no nplayers found for nbajamt2
+for game nbajamt3 taken parents nbajam cat *Sports* and subcat *Basketball*
+no nplayers found for nbajamt3
+for game nbamaxht taken parents nbahangt cat *Sports* and subcat *Basketball*
+no nplayers found for nbamaxht
+for game crusnu40 taken parents crusnusa cat *Driving* and subcat *Race (chase view)*
+no nplayers found for crusnu40
+for game crusnu21 taken parents crusnusa cat *Driving* and subcat *Race (chase view)*
+no nplayers found for crusnu21
+for game crusnw20 taken parents crusnwld cat *Driving* and subcat *Race (chase view)*
+no nplayers found for crusnw20
+for game crusnw13 taken parents crusnwld cat *Driving* and subcat *Race (chase view)*
+no nplayers found for crusnw13
+for game zzyzzyx2 taken parents zzyzzyxx cat *Maze* and subcat *Escape*
+no nplayers found for zzyzzyx2
+for game intrepi2 taken parents intrepid cat *Maze* and subcat *Collect & Put*
+no nplayers found for intrepi2
+for game cshootre taken parents cshooter cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for cshootre
+for game dbldyn taken parents dynduke cat *Shooter* and subcat *3rd Person*
+no nplayers found for dbldyn
+for game tokij taken parents toki cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for tokij
+for game legionnu taken parents legionna cat *Fighter* and subcat *2.5D*
+no nplayers found for legionnu
+for game sdgndmrb taken parents None cat *None* and subcat *None*
+no nplayers found for sdgndmrb
+for game cupsoc2 taken parents cupsoc cat *Sports* and subcat *Soccer*
+no nplayers found for cupsoc2
+for game cupsocbl taken parents cupsoc cat *Sports* and subcat *Soccer*
+no nplayers found for cupsocbl
+for game exerizrb taken parents skyfox cat *Shooter* and subcat *Gallery*
+no nplayers found for exerizrb
+for game teplus2j taken parents tetrisp2 cat *Puzzle* and subcat *Drop*
+no nplayers found for teplus2j
+for game tshingna taken parents tshingen cat *Fighter* and subcat *Field*
+no nplayers found for tshingna
+for game rodlndjb taken parents rodland cat *Platform* and subcat *Run Jump*
+no nplayers found for rodlndjb
+for game 64streej taken parents 64street cat *Fighter* and subcat *2.5D*
+no nplayers found for 64streej
+for game 47pie2 taken parents None cat *None* and subcat *None*
+no nplayers found for 47pie2
+for game 47pie2o taken parents 47pie2 cat *None* and subcat *None*
+no nplayers found for 47pie2o
+for game spinlbru taken parents spinlbrk cat *Shooter* and subcat *3rd Person*
+no nplayers found for spinlbru
+for game spinlbrj taken parents spinlbrk cat *Shooter* and subcat *3rd Person*
+no nplayers found for spinlbrj
+for game karatblu taken parents karatblz cat *Fighter* and subcat *2.5D*
+no nplayers found for karatblu
+for game crshrac2 taken parents crshrace cat *Driving* and subcat *Race*
+no nplayers found for crshrac2
+for game taotaida taken parents taotaido cat *Fighter* and subcat *Versus*
+no nplayers found for taotaida
+no year found for vgoalsoc
+no year found for vgoalsca
+for game worldc94 taken parents None cat *None* and subcat *None*
+no nplayers found for worldc94
+no year found for worldc94
+for game s1945jn taken parents s1945 cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for s1945jn
+for game sbomberb taken parents None cat *None* and subcat *None*
+no nplayers found for sbomberb
+for game loderdfa taken parents loderndf cat *Platform* and subcat *Run Jump*
+no nplayers found for loderdfa
+for game espiale taken parents espial cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for espiale
+for game aligatun taken parents aligator cat *Shooter* and subcat *3rd Person*
+no nplayers found for aligatun
+for game snowbalt taken parents snowboar cat *Sports* and subcat *Skiing*
+no nplayers found for snowbalt
+for game airbustj taken parents airbustr cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for airbustj
+for game galpanib taken parents galpanic cat *Puzzle* and subcat *Outline * Mature **
+no nplayers found for galpanib
+for game berlwalt taken parents berlwall cat *Platform* and subcat *Run Jump*
+no nplayers found for berlwalt
+for game mgcrystj taken parents mgcrystl cat *Maze* and subcat *Shooter Large*
+no nplayers found for mgcrystj
+for game brapboysj taken parents brapboys cat *Fighter* and subcat *2.5D*
+no nplayers found for brapboysj
+for game galpandx taken parents None cat *None* and subcat *None*
+no nplayers found for galpandx
+for game sengekij taken parents sengekis cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for sengekij
+for game puzloopj taken parents puzzloop cat *Puzzle* and subcat *Toss*
+no nplayers found for puzloopj
+for game puzloopu taken parents puzzloop cat *Puzzle* and subcat *Toss*
+no nplayers found for puzloopu
+for game tndrcadj taken parents tndrcade cat *Shooter* and subcat *Driving Vertical*
+no nplayers found for tndrcadj
+for game downtowj taken parents downtown cat *Fighter* and subcat *Vertical*
+no nplayers found for downtowj
+for game msgunda1 taken parents msgundam cat *Fighter* and subcat *Versus*
+no nplayers found for msgunda1
+for game eaglshta taken parents eaglshot cat *Sports* and subcat *Golf*
+no nplayers found for eaglshta
+for game powerina taken parents powerins cat *Fighter* and subcat *Versus*
+no nplayers found for powerina
+for game blmbycau taken parents blmbycar cat *Driving* and subcat *Race*
+no nplayers found for blmbycau
+for game route16b taken parents route16 cat *Maze* and subcat *Driving*
+no nplayers found for route16b
+for game kangaroa taken parents kangaroo cat *Platform* and subcat *Run Jump*
+no nplayers found for kangaroa
+for game kangarob taken parents kangaroo cat *Platform* and subcat *Run Jump*
+no nplayers found for kangarob
+for game hardhedb taken parents hardhead cat *Platform* and subcat *Run, Jump & Scrolling*
+no nplayers found for hardhedb
+for game brickzn3 taken parents brickzn cat *Ball & Paddle* and subcat *Breakout*
+no nplayers found for brickzn3
+for game gundeala taken parents gundealr cat *Puzzle* and subcat *Drop * Mature **
+no nplayers found for gundeala
+no year found for gundeala
+for game gundealt taken parents gundealr cat *Puzzle* and subcat *Drop * Mature **
+no nplayers found for gundealt
+for game gulfstr2 taken parents gulfstrm cat *Shooter* and subcat *Misc. Vertical*
+no nplayers found for gulfstr2
+for game bluehawn taken parents bluehawk cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for bluehawn
+no year found for ladykill
+no year found for moegonta
+for game pangpomm taken parents pangpoms cat *Platform* and subcat *Run Jump*
+no nplayers found for pangpomm
+for game lastfero taken parents lastfort cat *Puzzle* and subcat *Match*
+no nplayers found for lastfero
+for game hyprdelj taken parents hyprduel cat *Shooter* and subcat *Flying Horizontal*
+no nplayers found for hyprdelj
+no year found for spcforc2
+for game loopinga taken parents looping cat *Shooter* and subcat *Flying*
+no nplayers found for loopinga
+no year found for paradise
+no year found for tgtball
+no year found for magicbub
+for game blueprnj taken parents blueprnt cat *Maze* and subcat *Collect & Put*
+no nplayers found for blueprnj
+for game gogomilj taken parents gogomile cat *Maze* and subcat *Collect*
+no nplayers found for gogomilj
+for game roldfrga taken parents roldfrog cat *Shooter* and subcat *Outline * Mature **
+no nplayers found for roldfrga
+no year found for cabaret
+for game grtwall taken parents None cat *None* and subcat *None*
+no nplayers found for grtwall
+for game orlegnde taken parents orlegend cat *Fighter* and subcat *2.5D*
+no nplayers found for orlegnde
+for game orlegndc taken parents orlegend cat *Fighter* and subcat *2.5D*
+no nplayers found for orlegndc
+for game dragwld2 taken parents None cat *None* and subcat *None*
+no nplayers found for dragwld2
+for game mblkjack taken parents hitme cat *Casino* and subcat *Cards*
+no nplayers found for mblkjack
+no year found for mblkjack
+for game usg83 taken parents None cat *None* and subcat *None*
+no nplayers found for usg83
+for game usg252 taken parents None cat *None* and subcat *None*
+no nplayers found for usg252
+for game freekckb taken parents freekick cat *Ball & Paddle* and subcat *Breakout*
+no nplayers found for freekckb
+for game countrnb taken parents countrun cat *Maze* and subcat *Driving*
+no nplayers found for countrnb
+for game countrb2 taken parents countrun cat *Maze* and subcat *Driving*
+no nplayers found for countrb2
+no year found for yumefuda
+no year found for jogakuen
+no year found for mjikaga
+for game stoneba2 taken parents stonebal cat *Sports* and subcat *Soccer*
+no nplayers found for stoneba2
+for game chinher2 taken parents chinhero cat *Fighter* and subcat *Field*
+no nplayers found for chinher2
+no year found for hexa
+for game ringkin2 taken parents kingofb cat *Sports* and subcat *Boxing*
+no nplayers found for ringkin2
+for game ringkin3 taken parents kingofb cat *Sports* and subcat *Boxing*
+no nplayers found for ringkin3
+for game ambusht taken parents ambush cat *Shooter* and subcat *Flying (chase view)*
+no nplayers found for ambusht
+for game spdbuggy taken parents None cat *None* and subcat *None*
+no nplayers found for spdbuggy
+no year found for mugsmash
+no year found for fantland
+for game policeto taken parents policetr cat *Shooter* and subcat *Gun*
+no nplayers found for policeto
+for game plctr13b taken parents policetr cat *Shooter* and subcat *Gun*
+no nplayers found for plctr13b
+for game taxidrvr taken parents None cat *None* and subcat *None*
+no nplayers found for taxidrvr
+for game driblino taken parents dribling cat *Sports* and subcat *Soccer*
+no nplayers found for driblino
+no year found for fitfight
+no year found for histryma
+no year found for bbprot
+no year found for beaminv
+no year found for oneshot
+for game maddonnb taken parents maddonna cat *Maze* and subcat *Collect * Mature **
+no nplayers found for maddonnb
+for game 9ballsh2 taken parents coolpool cat *Sports* and subcat *Pool*
+no nplayers found for 9ballsh2
+for game 9ballsh3 taken parents coolpool cat *Sports* and subcat *Pool*
+no nplayers found for 9ballsh3
+no year found for truco
+for game eggvntdx taken parents eggventr cat *Shooter* and subcat *Gun*
+no nplayers found for eggvntdx
+no year found for rotaryf
+no year found for vamphalf
+no year found for hidnctch
+no year found for landbrk
+for game racoon taken parents None cat *None* and subcat *None*
+no nplayers found for racoon
+no year found for racoon
+no year found for xfiles
+no year found for malzak
+for game sengokh taken parents sengoku cat *Fighter* and subcat *2.5D*
+no nplayers found for sengokh
+for game burningh taken parents burningf cat *Fighter* and subcat *2.5D*
+no nplayers found for burningh
+for game fatfursa taken parents fatfursp cat *Fighter* and subcat *Versus*
+no nplayers found for fatfursa
+for game fightfva taken parents fightfev cat *Fighter* and subcat *Versus*
+no nplayers found for fightfva
+for game pbobblna taken parents pbobblen cat *Puzzle* and subcat *Toss*
+no nplayers found for pbobblna
+for game tws96 taken parents None cat *None* and subcat *None*
+no nplayers found for tws96
+for game mosyougi taken parents None cat *None* and subcat *None*
+no nplayers found for mosyougi
+for game kof97a taken parents kof97 cat *Fighter* and subcat *Versus*
+no nplayers found for kof97a
+for game lastblda taken parents lastblad cat *Fighter* and subcat *Versus*
+no nplayers found for lastblda
+for game shocktra taken parents shocktro cat *Shooter* and subcat *Walking*
+no nplayers found for shocktra
+for game rbff2a taken parents rbff2 cat *Fighter* and subcat *Versus*
+no nplayers found for rbff2a
+for game kof98n taken parents kof98 cat *Fighter* and subcat *Versus*
+no nplayers found for kof98n
+for game kof99a taken parents kof99 cat *Fighter* and subcat *Versus*
+no nplayers found for kof99a
+for game kof99n taken parents kof99 cat *Fighter* and subcat *Versus*
+no nplayers found for kof99n
+for game garouo taken parents garou cat *Fighter* and subcat *Versus*
+no nplayers found for garouo
+for game mslug3n taken parents mslug3 cat *Platform* and subcat *Shooter Scrolling*
+no nplayers found for mslug3n
+for game bbbuster taken parents None cat *None* and subcat *None*
+no nplayers found for bbbuster
+for game kof2003d taken parents None cat *None* and subcat *None*
+no nplayers found for kof2003d
+for game ddp3a taken parents ddp3 cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for ddp3a
+for game ddp3b taken parents ddp3 cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for ddp3b
+for game ddp3blk taken parents ddp3 cat *Shooter* and subcat *Flying Vertical*
+no nplayers found for ddp3blk
+no input found for neogeo
+no video found for neogeo
+for game cvs taken parents None cat *None* and subcat *None*
+no nplayers found for cvs
+no input found for cvs
+no video found for cvs
+no input found for decocass
+no video found for decocass
+no input found for playch10
+no video found for playch10
+no input found for pgm
+no video found for pgm
+no input found for skns
+no video found for skns
+no input found for stvbios
+no video found for stvbios
+no input found for konamigx
+no video found for konamigx
+no year found for nss
+no input found for nss
+no video found for nss
+no input found for megatech
+no video found for megatech
+no input found for megaplay
+no video found for megaplay
+for game cpzn1 taken parents None cat *None* and subcat *None*
+no nplayers found for cpzn1
+no input found for cpzn1
+no video found for cpzn1
+for game cpzn2 taken parents None cat *None* and subcat *None*
+no nplayers found for cpzn2
+no input found for cpzn2
+no video found for cpzn2
+for game tps taken parents None cat *None* and subcat *None*
+no nplayers found for tps
+no input found for tps
+no video found for tps
+for game taitofx1 taken parents None cat *None* and subcat *None*
+no nplayers found for taitofx1
+no input found for taitofx1
+no video found for taitofx1
+for game acpsx taken parents None cat *None* and subcat *None*
+no nplayers found for acpsx
+no input found for acpsx
+no video found for acpsx

@@ -1,0 +1,14 @@
+<mame>
+	<game name="puckman">
+		<description>PuckMan (Japan set 1)</description>
+		<driver>puckman</driver>
+		<year>1980</year>
+		<manufacturer>Namco</manufacturer>
+		<chip type="cpu" name="Z80" clock="3072000"/>
+		<chip type="audio" name="Namco 15XX"/>
+		<video screen="raster" orientation="vertical" width="224" height="288" aspectx="3" aspecty="4" refresh="60.606060"/>
+		<sound channels="1"/>
+		<input players="2" control="joy4way" coins="2"/>
+		<driver status="good" color="good" sound="good" palettesize="16"/>
+	</game>
+</mame>
