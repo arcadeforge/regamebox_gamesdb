@@ -6,6 +6,7 @@ class Game:
         self.description = ""
         self.players = ""
         self.control = ""
+        self.buttons = ""
         self.screen = ""
         self.orientation = ""
         self.width = ""

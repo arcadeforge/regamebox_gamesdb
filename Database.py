@@ -36,6 +36,7 @@ class Database:
             description VARCHAR(120), \
             players VARCHAR(15), \
             controls VARCHAR(15), \
+            buttons VARCHAR(15), \
             screen VARCHAR(30), \
             orientation VARCHAR(30), \
             rotation VARCHAR(4), \
@@ -56,9 +57,9 @@ class Database:
         # copy all m2010 in final db
         for m2010 in result_mame2010:
 
-            sql_cmd = ("INSERT INTO games (game_name, cloneof, romof, year, manufacturer, description, players, controls, screen, rotation, orientation, width, height, refresh, category, subcategory, nplayers) VALUES \
-                    (\"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\");"  \
-                    % (m2010[0], m2010[1], m2010[2], m2010[3], m2010[4], m2010[5], m2010[6], m2010[7], m2010[8], m2010[9], m2010[10], m2010[11], m2010[12], m2010[13], m2010[14], m2010[15], m2010[16]))
+            sql_cmd = ("INSERT INTO games (game_name, cloneof, romof, year, manufacturer, description, players, controls, buttons, screen, rotation, orientation, width, height, refresh, category, subcategory, nplayers) VALUES \
+                    (\"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\");"  \
+                    % (m2010[0], m2010[1], m2010[2], m2010[3], m2010[4], m2010[5], m2010[6], m2010[7], m2010[8], m2010[9], m2010[10], m2010[11], m2010[12], m2010[13], m2010[14], m2010[15], m2010[16], m2010[17]))
             print (sql_cmd)
             self.cursor.execute(sql_cmd)
             self.connection.commit()
@@ -76,9 +77,9 @@ class Database:
             if found == False:
                 ctr = ctr +1
 
-                sql_cmd = ("INSERT INTO games (game_name, cloneof, romof, year, manufacturer, description, players, controls, screen, rotation, orientation, width, height, refresh, category, subcategory, nplayers) VALUES \
-                        (\"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\");"  \
-                        % (m2003[0], m2003[1], m2003[2], m2003[3], m2003[4], m2003[5], m2003[6], m2003[7], m2003[8], m2003[9], m2003[10], m2003[11], m2003[12], m2003[13], m2003[14], m2003[15], m2003[16]))
+                sql_cmd = ("INSERT INTO games (game_name, cloneof, romof, year, manufacturer, description, players, controls, buttons, screen, rotation, orientation, width, height, refresh, category, subcategory, nplayers) VALUES \
+                        (\"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\");"  \
+                        % (m2003[0], m2003[1], m2003[2], m2003[3], m2003[4], m2003[5], m2003[6], m2003[7], m2003[8], m2003[9], m2003[10], m2003[11], m2003[12], m2003[13], m2003[14], m2003[15], m2003[16], m2003[17]))
                 print (sql_cmd)
                 self.cursor.execute(sql_cmd)
                 self.connection.commit()
@@ -117,6 +118,7 @@ class Database:
             description VARCHAR(120), \
             players VARCHAR(15), \
             controls VARCHAR(15), \
+            buttons VARCHAR(15), \
             screen VARCHAR(30), \
             orientation VARCHAR(30), \
             rotation VARCHAR(4), \
@@ -195,6 +197,7 @@ class Database:
                 input_tag = game_tag.find('input')
                 players = input_tag.get('players')
                 control = input_tag.get('control')
+                buttons = input_tag.get('buttons')
             except:
                 f_error.write ("no input found for %s\n" % (game_name))
                 players = "n/a"
@@ -215,9 +218,9 @@ class Database:
                 refresh = "n/a"
             #print ("%s ; %s; %s ; %s; %s ; %s; %s; %s ; %s; %s ; %s" % (game_name, description, manufacturer, year, players, control, screen, orientation, width, height, refresh))
 
-            sql_cmd = ("INSERT INTO games_fbaneo (game_name, cloneof, romof, year, manufacturer, description, players, controls, screen, orientation, width, height, refresh, category, subcategory, nplayers) VALUES \
-                (\"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\");"  \
-                % (game_name, cloneof, romof, year, manufacturer, description, players, control, screen, orientation, width, height, refresh, category, subcategory, nplayers))
+            sql_cmd = ("INSERT INTO games_fbaneo (game_name, cloneof, romof, year, manufacturer, description, players, controls, buttons, screen, orientation, width, height, refresh, category, subcategory, nplayers) VALUES \
+                (\"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\");"  \
+                % (game_name, cloneof, romof, year, manufacturer, description, players, control, buttons, screen, orientation, width, height, refresh, category, subcategory, nplayers))
             print (sql_cmd)
             self.cursor.execute(sql_cmd)
             self.connection.commit()
@@ -254,6 +257,7 @@ class Database:
             description VARCHAR(120), \
             players VARCHAR(15), \
             controls VARCHAR(15), \
+            buttons VARCHAR(15), \
             screen VARCHAR(30), \
             orientation VARCHAR(30), \
             rotation VARCHAR(4), \
@@ -332,6 +336,7 @@ class Database:
                 input_tag = game_tag.find('input')
                 players = input_tag.get('players')
                 control = input_tag.get('control')
+                buttons = input_tag.get('buttons')
             except:
                 f_error.write ("no input found for %s\n" % (game_name))
                 players = "n/a"
@@ -352,9 +357,9 @@ class Database:
                 refresh = "n/a"
             #print ("%s ; %s; %s ; %s; %s ; %s; %s; %s ; %s; %s ; %s" % (game_name, description, manufacturer, year, players, control, screen, orientation, width, height, refresh))
 
-            sql_cmd = ("INSERT INTO games_mame2003plus (game_name, cloneof, romof, year, manufacturer, description, players, controls, screen, orientation, width, height, refresh, category, subcategory, nplayers) VALUES \
-                (\"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\");"  \
-                % (game_name, cloneof, romof, year, manufacturer, description, players, control, screen, orientation, width, height, refresh, category, subcategory, nplayers))
+            sql_cmd = ("INSERT INTO games_mame2003plus (game_name, cloneof, romof, year, manufacturer, description, players, controls, buttons, screen, orientation, width, height, refresh, category, subcategory, nplayers) VALUES \
+                (\"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\");"  \
+                % (game_name, cloneof, romof, year, manufacturer, description, players, control, buttons, screen, orientation, width, height, refresh, category, subcategory, nplayers))
             print (sql_cmd)
             self.cursor.execute(sql_cmd)
             self.connection.commit()
@@ -389,6 +394,7 @@ class Database:
             description VARCHAR(120), \
             players VARCHAR(15), \
             controls VARCHAR(15), \
+            buttons VARCHAR(15), \
             screen VARCHAR(30), \
             orientation VARCHAR(30), \
             rotation VARCHAR(4), \
@@ -466,6 +472,7 @@ class Database:
             try:
                 input_tag = game_tag.find('input')
                 players = input_tag.get('players')
+                buttons = input_tag.get('buttons')
                 control_tag = input_tag.find('control')
                 control = control_tag.get('type')
             except:
@@ -494,9 +501,9 @@ class Database:
                 refresh = ""
             #print ("%s ; %s; %s ; %s; %s ; %s; %s; %s ; %s; %s ; %s" % (game_name, description, manufacturer, year, players, control, screen, orientation, width, height, refresh))
 
-            sql_cmd = ("INSERT INTO games_mame2010 (game_name, cloneof, romof, year, manufacturer, description, players, controls, screen, rotation, orientation, width, height, refresh, category, subcategory, nplayers) VALUES \
-                (\"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\");"  \
-                % (game_name, cloneof, romof, year, manufacturer, description, players, control, screen, rotation, orientation, width, height, refresh, category, subcategory, nplayers))
+            sql_cmd = ("INSERT INTO games_mame2010 (game_name, cloneof, romof, year, manufacturer, description, players, controls, buttons, screen, rotation, orientation, width, height, refresh, category, subcategory, nplayers) VALUES \
+                (\"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\");"  \
+                % (game_name, cloneof, romof, year, manufacturer, description, players, control, buttons, screen, rotation, orientation, width, height, refresh, category, subcategory, nplayers))
             print (sql_cmd)
             self.cursor.execute(sql_cmd)
             self.connection.commit()
@@ -532,6 +539,7 @@ class Database:
             description VARCHAR(120), \
             players VARCHAR(15), \
             controls VARCHAR(15), \
+            buttons VARCHAR(15), \
             screen VARCHAR(30), \
             orientation VARCHAR(30), \
             rotation VARCHAR(4), \
@@ -594,9 +602,12 @@ class Database:
                 nplayers = ""
                 f_error.write ("no nplayers found for %s\n" % (game_name))
 
-            mf_tag = game_tag.find('manufacturer')
-            manufacturer = mf_tag.text
-
+            try:
+                mf_tag = game_tag.find('manufacturer')
+                manufacturer = mf_tag.text
+            except:
+                f_error.write ("no valid manufacturer found for %s\n" % (game_name))
+                manufacturer = "n/a"
             try:
                 year_tag = game_tag.find('year')
                 year = year_tag.text
@@ -610,6 +621,7 @@ class Database:
             try:
                 input_tag = game_tag.find('input')
                 players = input_tag.get('players')
+                buttons = input_tag.get('buttons')
                 control_tag = input_tag.find('control')
                 control = control_tag.get('type')
             except:
@@ -638,9 +650,9 @@ class Database:
                 refresh = ""
             #print ("%s ; %s; %s ; %s; %s ; %s; %s; %s ; %s; %s ; %s" % (game_name, description, manufacturer, year, players, control, screen, orientation, width, height, refresh))
 
-            sql_cmd = ("INSERT INTO games_mame2016 (game_name, cloneof, romof, year, manufacturer, description, players, controls, screen, rotation, orientation, width, height, refresh, category, subcategory, nplayers) VALUES \
-                (\"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\");"  \
-                % (game_name, cloneof, romof, year, manufacturer, description, players, control, screen, rotation, orientation, width, height, refresh, category, subcategory, nplayers))
+            sql_cmd = ("INSERT INTO games_mame2016 (game_name, cloneof, romof, year, manufacturer, description, players, controls, buttons, screen, rotation, orientation, width, height, refresh, category, subcategory, nplayers) VALUES \
+                (\"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\", \"%s\");"  \
+                % (game_name, cloneof, romof, year, manufacturer, description, players, control, buttons, screen, rotation, orientation, width, height, refresh, category, subcategory, nplayers))
             print (sql_cmd)
             self.cursor.execute(sql_cmd)
             self.connection.commit()

@@ -6,6 +6,22 @@ from Game import Game
 
 db = Database()
 
+def getCategories():
+    print ("List of categories:")
+    sql_cmd = ("SELECT DISTINCT category FROM games")
+    db.cursor.execute(sql_cmd)
+    result = db.cursor.fetchall()
+    for r in result:
+        print (r[0])
+
+def showRomsInCategory(cat_name):
+    print ("Rom list for category %s" % (cat_name))
+    sql_cmd = ("SELECT game_name FROM games where category = (\"%s\")" % (cat_name))
+    db.cursor.execute(sql_cmd)
+    result = db.cursor.fetchall()
+    for r in result:
+        print (r[0])
+
 def getOrientation_mame2010 (rom_name):
     sql_cmd = ("SELECT orientation FROM games_mame2010 WHERE game_name = (\"%s\")" % (rom_name))
     db.cursor.execute(sql_cmd)
@@ -19,7 +35,7 @@ def getOrientation (rom_name):
     return result[0]
 
 def getRomInformation (rom_name):
-    sql_cmd = ("SELECT description, game_name, romof, cloneof, orientation, nplayers, category FROM games WHERE game_name = (\"%s\")" % (rom_name))
+    sql_cmd = ("SELECT description, game_name, romof, cloneof, orientation, nplayers, category, controls, buttons FROM games WHERE game_name = (\"%s\")" % (rom_name))
     db.cursor.execute(sql_cmd)
     result = db.cursor.fetchall()
 
@@ -31,6 +47,8 @@ def getRomInformation (rom_name):
         print("Orientation : ", r[4])
         print("NPlayers : ", r[5])
         print("Category : ", r[6])
+        print("Controls : ", r[7])
+        print("Buttons : ", r[8])
         #print(r)
     print ("%s items found" % (len(result)))
 
@@ -250,7 +268,10 @@ def main():
     if showCategories:
         getCategories()
 
-    
+    getCategories
+    showRomsInCategory("Driving")
+
+
     #buildActiveArcadeGames(config)
     #result = getGamesFrom1981()
     #writeGamelist(result, "gamelist_1981.conf", active_games)
